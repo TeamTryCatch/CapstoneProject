@@ -1,1784 +1,6 @@
-{
-      "OUAC Code": "LSL",
-      "Program Name": "Sciences du langage",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70 %",
-      "Ontario Secondary School Prerequisites": "4U Franjais 5 autres cours de 4U/M Moyenne minimale de 70%",
-      "Alternative Offer(s)": "",
-      "Co-op Option": "Not Available"
-    },
+[
     {
-      "OUAC Code": "LKF",
-      "Program Name": "Activite physique - Kinesiologie (4 ans)",
-      "Previous No. Enrolled": 25,
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U Franjais 4U fonctions avancees 4U chimie 3 autres cours de 4U/M (calcul et physique fortement recommande) Additional Admission Criteria: Forumlaire de profil 2 matrix formulaires",
-      "Alternative Offer(s)": "Sciences",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LEV",
-      "Program Name": "Etudes de I'environnement (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U Franjais 5 autres cours de 4U/M Moyenne minimale de 70%",
-      "Alternative Offer(s)": "Arts (3 ans)",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LGZ",
-      "Program Name": "Genie minier",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U Franjais 4U physique 4U chimie 4U fonctions avancees 1 autre cours 4U/M de math ou science (calcul et vecteurs, biologie, sciences de la Terre et de l'Espace, ou analyse des questions actuelles touchant l'economie) 1 autre cours de 4U/M (anglais fortement recommande) Moyenne minimale de 70%",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science",
-      "Co-op Option": "Co-op or internship application available at the university after registration"
-    },
-    {
-      "OUAC Code": "LFH",
-      "Program Name": "Histoire (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U/M franjais 5 autres cours 4U/M",
-      "Alternative Offer(s)": "Arts (3 ans)",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LVS",
-      "Program Name": "Indigenous Studies (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies Program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LOU",
-      "Program Name": "Business Administration -International Management",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 2    4U Math 3    other4U/M courses 70% in top 6 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Arts in Economics",
-      "Co-op Option": "Co-op or internship application available at the university after registration"
-    },
-    {
-      "OUAC Code": "LOI",
-      "Program Name": "Business Administration - Marketing",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 2    4U Math 3    other4U/M courses 70% in top 6 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Arts in Economics",
-      "Co-op Option": "Co-op or internship application available at the university after registration"
-    },
-    {
-      "OUAC Code": "LOE",
-      "Program Name": "Sports Administration (4 years)",
-      "Previous No. Enrolled": 70,
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U English Two 4U math courses Three other grade 12 U/M courses 75% in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Business Administration (4 years).",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LOS",
-      "Program Name": "Business Administration - Human Resources Management",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U/M English 2    4U/M Math 3    other4U/M courses 70% in top 6 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Arts in Economics",
-      "Co-op Option": "Co-op or internship application available at the university after registration"
-    },
-    {
-      "OUAC Code": "LDJ",
-      "Program Name": "Droit et justice (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U Franjais 5 autres cours de 4U/M Moyenne minimale de 70%",
-      "Alternative Offer(s)": "Arts (3 ans)",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LDA",
-      "Program Name": "Architectural Studies (4 years)",
-      "Previous No. Enrolled": "70 Limited",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U English or 4U French Two 4U/M maths Three other 4U/M courses 75% in top six 4U/M courses Portfolio Additional Admission Criteria: As part of the application process, students must submit a one- to two-page letter of interest, two letters of reference (from teachers, employers or community leaders), and a portfolio of creative works (digital or hard-copy format).",
-      "Alternative Offer(s)": "",
-      "Co-op Option": "Co-op program"
-    },
-    {
-      "OUAC Code": "LBB",
-      "Program Name": "Biologie - biomedicale (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U fran^ais 1 4U fonctions avancees 1 4U science (chimie conseillee) 1    4U math ou 1 autre 4U science 2    autres cours 4U/M Moyenne minimale de 70 %",
-      "Alternative Offer(s)": "Sciences liberales",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LZL",
-      "Program Name": "Biologie - zoologie (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U fran$ais 4U fonctions avancees 1 4U science 1    4U math ou 1 autre 4U science 2    autres cours 4U Moyenne minimale de 70 %",
-      "Alternative Offer(s)": "Sciences liberales",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LBW",
-      "Program Name": "Biology - Biomedical Biology (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 2 4U/M sciences OR one 4U/M science and one 4U/M math 2 other 4U/M courses (Calulus and Vectors strongly advised) 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Sciences",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LNO",
-      "Program Name": "Behavioural Neuroscience (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions Two 4U/M sciences ORone 4U/M science and one 4U/M math Two other 4U/M courses (MCV4U strongly advised) 70% in top six 4U/M courses Notes: Some courses are available in French",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LTG",
-      "Program Name": "Biology - Restoration Biology (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 1 4U science (Chemistry recommended) 1 4U science or 1 4U math Two other 4U/M courses (Calculus and Vectors strongly advised) 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LCS",
-      "Program Name": "Computer Science (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 1 additional 4U math 3 other 4U/M courses (computer science recommended) 70% average in top 6 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science Introduction to University Studies program",
-      "Co-op Option": "Co-op or internship application available at the university after registration"
-    },
-    {
-      "OUAC Code": "LAI",
-      "Program Name": "Concurrent Education - Arts (Primary/ Junior) - 5-year double degree",
-      "Previous No. Enrolled": "200 (total intake for entire Concurrent Education program)",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% average in top 6 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Arts",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LAY",
-      "Program Name": "Anthropology (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LOM",
-      "Program Name": "Business Administration - Accounting",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 2    4U Math 3    other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Arts in Economics",
-      "Co-op Option": "Co-op or internship application available at the university after registration"
-    },
-    {
-      "OUAC Code": "LBS",
-      "Program Name": "Communication Studies (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LAU",
-      "Program Name": "Archaeology (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LBT",
-      "Program Name": "Biochimie (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70 %",
-      "Ontario Secondary School Prerequisites": "4U fran^ais 4U fonctions avancees 1 4U sciences (chimie conseillee) 1    4U science ou 1 4U mathematiques (calcul differentiel et vectors conseillee) 2    autres cours 4U/M Moyenne minimale de 70 %",
-      "Alternative Offer(s)": "Sciences liberales",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LZY",
-      "Program Name": "Biology - Zoology (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 1 4U science (Chemistry recommended) 1 4U science or 1 4U math Two other 4U/M courses (Calculus and Vectors strongly advised) 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LMO",
-      "Program Name": "Concurrent Education - Music (Junior/ Intermediate) - 5-year double degree",
-      "Previous No. Enrolled": "200 (total intake for entire Concurrent Education program)",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 75% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Arts in Music",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LMK",
-      "Program Name": "Concurrent Education - Music (Primary/Junior) - 5-year double degree",
-      "Previous No. Enrolled": "200 (total intake for entire Concurrent Education program)",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Arts",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LAQ",
-      "Program Name": "Concurrent Education with Outdoor Adventure Leadership (Primary/ Junior) - 5-year double degree",
-      "Previous No. Enrolled": "200 (total intake for entire Concurrent Education program)",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "1 English 1 biology or exercise science 4 other courses (chemistry, 2nd language course advised) 75% average in top six 4U/M courses Additional Admission Criteria: Personal profile form",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LSG",
-      "Program Name": "Concurrent Education with Sport and Physical Education (Junior/ Intermediate) - 5-year double degree",
-      "Previous No. Enrolled": "200 (total intake for entire Concurrent Education program)",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "1 English 1 biology or exercise science 4 other courses (chemistry, 2nd language course advised) 75% average in top six 4U/M courses Additional Admission Criteria: Personal profile form",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LSO",
-      "Program Name": "Concurrent Education with Sport Psychology (Junior/Intermediate) -5-year double degree",
-      "Previous No. Enrolled": "200 (total intake for entire Concurrent Education program)",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 75% average in top six 4U/M courses Additional Admission Criteria: Personal profile form",
-      "Alternative Offer(s)": "Bachelor of Arts",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LHK",
-      "Program Name": "Concurrent Education with Health Promotion (Junior/Intermediate) -5-year double degree",
-      "Previous No. Enrolled": "200 (total intake for entire Concurrent Education program)",
-      "Previous Grade Ranges": "80%",
-      "Ontario Secondary School Prerequisites": "4U English 4U chemistry 4U biology or exercise science 3 other 4U/M courses 75% average in top six 4U/M courses Additional Admission Criteria: Personal profile form",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LHG",
-      "Program Name": "Concurrent Education with Health Promotion (Primary/Junior) - 5-year double degree",
-      "Previous No. Enrolled": "200 (total intake for entire Concurrent Education program)",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U English 4U chemistry 4U biology or exercise science 3 other 4U/M courses 75% average in top six 4U/M courses Additional Admission Criteria: Personal profile form",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LSK",
-      "Program Name": "Concurrent Education with Sport and Physical Education (Primary/Junior) -5-year double degree",
-      "Previous No. Enrolled": "200 (total intake for entire Concurrent Education program)",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "1 English 1 biology or exercise science 4 other courses (chemistry, 2nd language course advised) 75% average in top six 4U/M courses Additional Admission Criteria: Personal profile form",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LAK",
-      "Program Name": "Concurrent Education - Arts (Junior/ Intermediate) - 5-year double degree",
-      "Previous No. Enrolled": "200 (total intake for entire Concurrent Education program)",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% average in top 6 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Arts",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LRK",
-      "Program Name": "Concurrent Education - Science (Junior/Intermediate) - 5-year double degree",
-      "Previous No. Enrolled": "200 (total intake for entire Concurrent Education program)",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 4U science (Chemistry recommended) 4U science or 4U math Two other 4U/M courses (Calculus and Vectors recommended) 75% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LRI",
-      "Program Name": "Concurrent Education - Science (Primary Junior) - 5-year double degree",
-      "Previous No. Enrolled": "200 (total intake for entire Concurrent Education program)",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 4U science (Chemistry recommended) 4U science or 4U math Two other 4U/M courses (Calculus and Vectors recommended) 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LAA",
-      "Program Name": "Fine Arts - Theatre Performance (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LES",
-      "Program Name": "Environmental Studies (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LMM",
-      "Program Name": "Fine Arts - Music (4 years)",
-      "Previous No. Enrolled": "",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LUU",
-      "Program Name": "Fine Arts - Motion Picture Arts (4 years)",
-      "Previous No. Enrolled": "",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LFB",
-      "Program Name": "Activite physique - Education physique (4 ans)",
-      "Previous No. Enrolled": 25,
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U Franjais 4U biologie ou science de l'exercice 4 autres cours de 4U/M Moyenne minimale de 75% Additional Admission Criteria: Profil personnel",
-      "Alternative Offer(s)": "Baccalaureat es science en sciences liberales",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LEE",
-      "Program Name": "Engineering - Mining (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 4U physics 4U chemistry 1 of: calculus & vectors, biology, earth & space science, or analyzing current economic issues 1 other 4U/M course 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science",
-      "Co-op Option": "Co-op option available with this program"
-    },
-    {
-      "OUAC Code": "LGV",
-      "Program Name": "Genie chimique",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "4U Franjais 4U physique 4U chimie 4U fonctions avancees 1 autre cours 4U/M de math ou science (calcul et vecteurs, biologie, sciences de la Terre et de l'Espace, ou analyse des questions actuelles touchant l'economie) 1 autre cours de 4U/M (anglais fortement recommande) Moyenne minimale de 70%",
-      "Alternative Offer(s)": "Baccalaureat es sciences en sciences liberales",
-      "Co-op Option": "Co-op option available with this program"
-    },
-    {
-      "OUAC Code": "LEF",
-      "Program Name": "Litterature et culture francophone (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U Franjais 5 autres cours de 4U/M Moyenne minimale de 70%",
-      "Alternative Offer(s)": "",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LPW",
-      "Program Name": "Physics (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "ENG4U MHF4U Two 4U science, or one 4U science and another 4U math (MCV4U strongly recommended) 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LSA",
-      "Program Name": "Sport and Physical Education",
-      "Previous No. Enrolled": 40,
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "ENG4U, SBI4U or PSE4U. SCH4U recommended 75% in top six 4U/M courses Additional Admission Criteria: All applicants to this program must complete a Personal Profile Form and submit references, due February 1. See: www.laurentian.ca.",
-      "Alternative Offer(s)": "Arts",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LAE",
-      "Program Name": "Outdoor Adventure Leadership",
-      "Previous No. Enrolled": 15,
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "ENG4U, SBI4U (SCH4U and a second-language course recommended) 75% in top six 4U/M courses Additional Admission Criteria: All applicants to this program must complete a Personal Profile Form and submit references, due February 1. See: www.laurentian.ca.",
-      "Alternative Offer(s)": "Arts",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LRS",
-      "Program Name": "Radiation Therapy (4 years)",
-      "Previous No. Enrolled": "15 Limited",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U/M English 4U/M Advanced Functions 4U/M Biology 4U/M Chemistry 4U/M Physics One other 4U/M courses (Calculus and Vectors strongly advised) 75% in top six 4U/M courses Additional Admission Criteria: You will be contacted directly about the mandatory interview. Notes: Graduates also obtain a Diploma in Radiation Therapy from The Michener Institute.",
-      "Alternative Offer(s)": "Science or Liberal Science",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LAT",
-      "Program Name": "Theatre (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U/M fran^ais Cinq autres cours 4U/M Moyenne de 70% avec vos 6 meilleurs cours 4U/M Additional Admission Criteria: Audition",
-      "Alternative Offer(s)": "Arts (3 ans).",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LBE",
-      "Program Name": "Commerce and Administration (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English Two 4U/M maths Three other 4U/M courses 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LPY",
-      "Program Name": "Psychology BA (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English Five other 4U/M courses 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LOR",
-      "Program Name": "Administration des affaires (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70 %",
-      "Ontario Secondary School Prerequisites": "4U/M fran^ais 2    mathematiques 3    autres cours 4U/M",
-      "Alternative Offer(s)": "Arts",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LBC",
-      "Program Name": "Biochemistry (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 2 4U/M sciences OR 1 4U/M science and 1 4U/M math 2 other 4U/M courses (Calculus and Vectors strongly recommended) 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LMC",
-      "Program Name": "Music (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English Five other 4U/M courses 70% in top six 4U/M courses Additional Admission Criteria: Audition/theory placement tests are held from April to September. Contact the Music department.",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LPS",
-      "Program Name": "Political Science (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English Five other 4U/M courses 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LHP",
-      "Program Name": "Promotion de la sante (4 ans)",
-      "Previous No. Enrolled": 30,
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "FRA4U, SCH4U, SBI4U or PSE4U Additional Admission Criteria: Formulaire de profil Deux matrix fromulaire",
-      "Alternative Offer(s)": "Arts",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LEJ",
-      "Program Name": "Business Administration -Entrepreneurship",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U/M English 2    4U/M Math 3    other4U/M courses 70% in top 6 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Arts in Economics",
-      "Co-op Option": "Co-op or internship application available at the university after registration"
-    },
-    {
-      "OUAC Code": "LBO",
-      "Program Name": "Labour Studies (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English five other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LTS",
-      "Program Name": "Ancient Studies (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies Program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LGG",
-      "Program Name": "Business Administration - Operations Management",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 2    4U Math 3    other 4U/M courses 70% in top 6 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Arts in Economics",
-      "Co-op Option": "Co-op or internship application available at the university after registration"
-    },
-    {
-      "OUAC Code": "LGC",
-      "Program Name": "Criminology (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LOK",
-      "Program Name": "Business Administration - Finance",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U/M English 2    4U/M Math 3    other 4U/M courses 70% in top 6 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Arts in Economics",
-      "Co-op Option": "Co-op or internship application available at the university after registration"
-    },
-    {
-      "OUAC Code": "LVY",
-      "Program Name": "Gerontology (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English five other 4U/M courses 70% average in top 6 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LRA",
-      "Program Name": "Forensic Science (4 years)",
-      "Previous No. Enrolled": 40,
-      "Previous Grade Ranges": "80%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 4U biology 4U chemistry 2 other 4U/M courses (calculus & vectors, physics strongly recommended) 80% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LSM",
-      "Program Name": "Concurrent Education with Sport Psychology (Primary/Junior) - 5-year double degree",
-      "Previous No. Enrolled": "200 (total intake for entire Concurrent Education program)",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 75% average in top six 4U/M courses Additional Admission Criteria: Personal profile form",
-      "Alternative Offer(s)": "Bachelor of Arts",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LTA",
-      "Program Name": "Theatre Arts (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English Five other 4U/M courses 70% in top six 4U/M courses Additional Admission Criteria: Audition",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LLW",
-      "Program Name": "Law and Justice (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English five other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LIO",
-      "Program Name": "Biology - Ecology (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 1 4U science (Chemistry recommended) 1 4U science or 1 4U math Two other 4U/M courses (Calculus and Vectors strongly advised) 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LEI",
-      "Program Name": "English Literature (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LEM",
-      "Program Name": "English Rhetoric and Media Studies (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LLS",
-      "Program Name": "Modern Languages - Spanish (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English Five other 4U/M courses 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LCC",
-      "Program Name": "Arts (3 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English Five other 4U/M courses 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LBA",
-      "Program Name": "Actuarial Sciences (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U Advanced Functions 4U Mathematics 3 other 4U/M courses 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LKT",
-      "Program Name": "Science economique (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U/M fran^ais Cinq autres cours 4U/M",
-      "Alternative Offer(s)": "Arts (3 ans)",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LVF",
-      "Program Name": "Sciences liberales (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "FRA4U",
-      "Alternative Offer(s)": "Sciences",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LAD",
-      "Program Name": "Administration des affaires (4 ans) -Hearst",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U fran$ais 2    4U mathematiques 3    autre cours 70 % dans six cours de 12e annee, niveau 4U/M",
-      "Alternative Offer(s)": "",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LLY",
-      "Program Name": "Philosophy (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English Five other 4U/M courses 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LBI",
-      "Program Name": "Biomedical Physics (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 1 4U science (Chemistry recommended) 1 4U science or 1 4U math Two other 4U/M courses (Calculus and Vectors recommended) 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LIS",
-      "Program Name": "Classical Studies (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LCY",
-      "Program Name": "Chemistry (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 1 4U science (Chemistry recommended) 1 4U science or 1 4U math Two other 4U/M courses (Calculus and Vectors recommended) 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LAS",
-      "Program Name": "Concurrent Education with Outdoor Adventure Leadership (Junior/ Intermediate) - 5-year double degree",
-      "Previous No. Enrolled": "200 (total intake for entire Concurrent Education program)",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "1 English 1 biology or exercise science 4 other courses (chemistry, 2nd language course advised) 75% average in top six 4U/M courses Additional Admission Criteria: Personal profile form",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LMS",
-      "Program Name": "Economics (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LVI",
-      "Program Name": "Earth Sciences (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 4U science 4U math or additional 4U science Two other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science",
-      "Co-op Option": "Co-op option available with this program"
-    },
-    {
-      "OUAC Code": "LEA",
-      "Program Name": "Engineering - Chemical (4 years)",
-      "Previous No. Enrolled": "",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 4U physics 4U chemistry 1 of: calculus & vectors, biology, earth & space science, or analyzing current economic issues 1 other 4U/M course 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Sciences",
-      "Co-op Option": "Co-op option available with this program"
-    },
-    {
-      "OUAC Code": "LEG",
-      "Program Name": "Engineering - Mechanical (4 years)",
-      "Previous No. Enrolled": 55,
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 4U physics 4U chemistry 1 of: calculus & vectors, biology, earth & space science, or analyzing current economic issues 1 other 4U/M course 75% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science",
-      "Co-op Option": "Co-op option available with this program"
-    },
-    {
-      "OUAC Code": "LEQ",
-      "Program Name": "Environmental Science (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 4U science 4U math or additional 4U science (biology and chemistry recommended) 2 other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Sciences",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LFA",
-      "Program Name": "French as a Second Language (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies Program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LAP",
-      "Program Name": "Etudes journalistiques (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U/M fran^ais Cinq autres cours 4U/M",
-      "Alternative Offer(s)": "Arts (3 ans)",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LPT",
-      "Program Name": "Philosophie (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U/M fran^ais Cinq autres cours 4U/M",
-      "Alternative Offer(s)": "Arts (3 ans)",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LSP",
-      "Program Name": "Science politique (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U/M fran^ais Cinq autres cours 4U/M",
-      "Alternative Offer(s)": "Arts (3 ans)",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LSR",
-      "Program Name": "Sciences religieuses (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U/M fran^ais Cinq autres cours 4U/M",
-      "Alternative Offer(s)": "Arts (3 ans)",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LPV",
-      "Program Name": "Sociologie (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U/M fran^ais Cinq autres cours 4U/M",
-      "Alternative Offer(s)": "Arts (3 ans)",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LNF",
-      "Program Name": "Sciences infirmieres (4 ans)",
-      "Previous No. Enrolled": 55,
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U/M fran^ais 4U/M biologie 4U/M chimie Une mathematiques Deux autres cours",
-      "Alternative Offer(s)": "Sciences",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LRB",
-      "Program Name": "Orthophonie (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U/M fran^ais 4U/M anglais 4U/M biologie Trois autres cours (physique et maths de la gestions des donnees recommander)",
-      "Alternative Offer(s)": "Arts",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LYP",
-      "Program Name": "Psychologie (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U/M fran^ais Cinq autres cours 4U/M",
-      "Alternative Offer(s)": "Arts (3 ans)",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LLF",
-      "Program Name": "Service social (4 ans)",
-      "Previous No. Enrolled": 30,
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U/M fran^ais Cinq autres cours",
-      "Alternative Offer(s)": "Arts",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LYF",
-      "Program Name": "Sage-femmes, Formation des (4 ans)",
-      "Previous No. Enrolled": 10,
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "FRA4U SCH4U ou SBI4U un cours de sciences sociales 4U/M Additional Admission Criteria: Formulaire de demande d'admission",
-      "Alternative Offer(s)": "Sciences",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LSE",
-      "Program Name": "Sport Psychology (4 years)",
-      "Previous No. Enrolled": 20,
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "ENG4U 75% in top six 4U/M courses Additional Admission Criteria: You must complete a Personal Profile Form and submit references by February 1.",
-      "Alternative Offer(s)": "Arts",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LSF",
-      "Program Name": "Psychologie du sport (4 ans)",
-      "Previous No. Enrolled": 30,
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U/M fran^ais Cinq autres cours Additional Admission Criteria: Deux matrix formulaires Formulaire de profil",
-      "Alternative Offer(s)": "Arts",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LLK",
-      "Program Name": "Psychology BSc (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "ENG4U MHF4U Two 4U science, or one 4U science and another 4U math (MCV4U strongly recommended) 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LSS",
-      "Program Name": "Religious Studies (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 5 other grade 12 U/M courses 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies Program.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LSY",
-      "Program Name": "Sociology (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "ENG4U 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LRE",
-      "Program Name": "Science (3 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U/M English 4U/M Advanced Functions Two 4U/M Sciences - OR - 1 4U/M Science and 1 4U/M Math Two other 4U/M courses (Calculus and Vectors strongly advised) 70% in top six 4U/M courses",
-      "Alternative Offer(s)": "Liberal Science",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LNE",
-      "Program Name": "Nursing (4 years)",
-      "Previous No. Enrolled": 65,
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U English 4U Biology 4U Chemistry 4U Mathematics 75% in top six 4U/M courses",
-      "Alternative Offer(s)": "Science",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LGE",
-      "Program Name": "Engineering - General (year 1 & 2 only)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 4U physics 4U chemistry one of: calculus & vectors, biology, earth & space science, or analyzing current economic issues one other 4U/M course 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LGX",
-      "Program Name": "Mechanical Engineering",
-      "Previous No. Enrolled": "40 Limited",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 4U physics 4U chemistry one of: calculus & vectors, biology, earth & space science, or analyzing current economic issues one other 4U/M course 75% average in top 6 4U/M courses",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science",
-      "Co-op Option": "Co-op option available with this program"
-    },
-    {
-      "OUAC Code": "LDC",
-      "Program Name": "Indigenous Social Work (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English five other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies Program",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LZS",
-      "Program Name": "Geography (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English five other 4U/M courses 70% average in top 6 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LHE",
-      "Program Name": "Human Kinetics - Health Promotion (4 years)",
-      "Previous No. Enrolled": "24 Limited",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U English 4U chemistry 4U biology or exercise science three other 4U/M courses 75% average in top 6 4U/M courses",
-      "Alternative Offer(s)": "Arts",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LRR",
-      "Program Name": "Geographie (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U Franjais 5 autres cours de 4U/M Moyenne minimale de 70%",
-      "Alternative Offer(s)": "",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LIQ",
-      "Program Name": "Mathematics (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions one 4U math (calcules strongly recommended) three other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LVG",
-      "Program Name": "Liberal Science (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English five other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LAF",
-      "Program Name": "Activite physique - Leadership: activites physiques de plein air (4 ans)",
-      "Previous No. Enrolled": 25,
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U Franjais 4U biologie ou science de l'exercise 4 autres cours de 4U/M Moyenne minimale de 75% Additional Admission Criteria: Formulaire de profil",
-      "Alternative Offer(s)": "Arts",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LLX",
-      "Program Name": "Langues modernes - Italien (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U Franjais 5 autres cours de 4U/M Moyenne minimale de 70%",
-      "Alternative Offer(s)": "Arts (3 ans)",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LMT",
-      "Program Name": "Mathematiques (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U Franjais 4U fonctions avancees 4U math (calcul fortement recommande) 4U science 2 autres cours de 4U/M Moyenne minimale de 70%",
-      "Alternative Offer(s)": "Sciences",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LZF",
-      "Program Name": "Mathematiques (4 ans)",
-      "Previous No. Enrolled": "Libre",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U franjais 4U fonctions avancees 4U math (calcul fortement recommande) 3 autres cours de 4U/M Moyenne minimale de 70%",
-      "Alternative Offer(s)": "Arts (3 ans)",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LTY",
-      "Program Name": "History (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English five other 4U/M courses 70% average in top 6 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LYY",
-      "Program Name": "Midwifery",
-      "Previous No. Enrolled": "30 Limited",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U biology or chemistry 4U social science three other 4U/M courses 70% average in top 6 4U/M courses Additional Admission Criteria: Supplementary application",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Science",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "LZC",
-      "Program Name": "Mathematics (4 years)",
-      "Previous No. Enrolled": "Open",
-      "Previous Grade Ranges": "70%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions one 4U math (calcules strongly recommended) three other 4U/M courses 70% average in top six 4U/M courses",
-      "Alternative Offer(s)": "Introduction to University Studies program",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "LKE",
-      "Program Name": "Human Kinetics - Kinesiology",
-      "Previous No. Enrolled": 20,
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "4U English 4U advanced functions 4U chemistry three other 4U/M courses 75% average in top six 4U/M courses Additional Admission Criteria: Personal Profile",
-      "Alternative Offer(s)": "Bachelor of Science in Liberal Sciences",
-      "Co-op Option": "Practicum or internship option available"
-    }
-  ],
-  "McMaster University":[
-    {
-      "OUAC Code": "MLH",
-      "Program Name": "Health & Society I",
-      "Previous No. Enrolled": "60 sixty",
-      "Previous Grade Ranges": "80-83%",
-      "Ontario Secondary School Prerequisites": "ENG4U",
-      "Alternative Offer(s)": "",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "MLE",
-      "Program Name": "Economics I",
-      "Previous No. Enrolled": 125,
-      "Previous Grade Ranges": "80-85%",
-      "Ontario Secondary School Prerequisites": "ENG4U 2 of MHF4U, MCV4U, MFM4D Notes: Applicants without MCV4U will be required to take an equivalent calculus course in Level I in addition to the required calculus course. Applicants without MDM4U will be required to take Stats 1L03 in first year.",
-      "Alternative Offer(s)": "",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "MX",
-      "Program Name": "Arts and Science I",
-      "Previous No. Enrolled": 65,
-      "Previous Grade Ranges": "88%+ to be considered",
-      "Ontario Secondary School Prerequisites": "ENG4U 1 of MHF4U, MCV4U 2 of 4 additional courses at the 4U level Additional Admission Criteria: To be considered, you must provide a completed supplementary application. Find further details on the McMaster website. Deadline: February 1, 2019.",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "MBH",
-      "Program Name": "Integrated Business & Humanities",
-      "Previous No. Enrolled": 80,
-      "Previous Grade Ranges": "Admission is by selection. A minimum of 88% is required for consideration.",
-      "Ontario Secondary School Prerequisites": "ENG4U MCV4U MDM4U MHF4U Additional Admission Criteria: Mandatory supplementary application, due February 1, 2019. Details will be supplied to applicants. Notes: Admission is by selection.",
-      "Alternative Offer(s)": "We do not make automatic alternative offers and encourage applicants to apply to all programs at McMaster that they are interested in (up to 3).",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "MB",
-      "Program Name": "Business I",
-      "Previous No. Enrolled": 800,
-      "Previous Grade Ranges": "84-87%",
-      "Ontario Secondary School Prerequisites": "ENG4U 2 of MHF4U, MCV4U, MDM4U Note: If you do not have MCV4U, you will be required to complete an equivalent calculus course in Level I. If you do not have MDM4U, you will be required to complete Statistics 1LO3 in Level I. Additional Admission Criteria: An optional supplementary application form is available for applicants who feel that their admission average might be close to or below the quoted range. Details will be available on the McMaster website.",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Co-op or internship option available with this program"
-    },
-    {
-      "OUAC Code": "MCC",
-      "Program Name": "Computer Science Co-op I",
-      "Previous No. Enrolled": "50 (total for OUAC codes MC and MCC)",
-      "Previous Grade Ranges": "90-95%",
-      "Ontario Secondary School Prerequisites": "ENG4U MCV4U 2 of SBI4U, SCH4U, SPH4U, SES4U, ICS4U, TEJ4M",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Co-op program"
-    },
-    {
-      "OUAC Code": "MEI",
-      "Program Name": "Integrated Biomedical Engineering & Health Sciences",
-      "Previous No. Enrolled": "140 (total for OUAC codes MEI and MEH)",
-      "Previous Grade Ranges": "A minimum of +90% is required for consideration. Admission is by selection.",
-      "Ontario Secondary School Prerequisites": "ENG4U MCV4U SBI4U SCH4U SPH4U Additional Admission Criteria: Admission is by selection and applications will be required to complete a mandatory supplementary application by February 1, 2019. Applicants will be notified of details. OUAC application deadline: January 16, 2019",
-      "Alternative Offer(s)": "We do not make automatic alternative offers and we encourage applicants to apply to all programs at McMaster they are interested in (up to 3).",
-      "Co-op Option": "Co-op option available with this program"
-    },
-    {
-      "OUAC Code": "MEH",
-      "Program Name": "Integrated Biomedical Engineering & Health Sciences",
-      "Previous No. Enrolled": "140 (total for OUAC codes MEI and MEH)",
-      "Previous Grade Ranges": "A minimum of +90% is required for consideration. Admission is by selection.",
-      "Ontario Secondary School Prerequisites": "ENG4U MCV4U SBI4U SCH4U SPH4U Additional Admission Criteria: Admission is by selection and applications will be required to complete a mandatory supplementary application by February 1, 2019. Applicants will be notified of details. OUAC application deadline: January 16, 2019.",
-      "Alternative Offer(s)": "We do not make automatic alternative offers and encourage applicants to apply to all programs at McMaster they are interested in (up to 3).",
-      "Co-op Option": "Co-op option available with this program"
-    },
-    {
-      "OUAC Code": "MPT",
-      "Program Name": "Automation Engineering Technology I (Bachelor of Technology)",
-      "Previous No. Enrolled": "240 Enrollment number includes all 3 streams of the Bachelor of Technology",
-      "Previous Grade Ranges": "77-80%",
-      "Ontario Secondary School Prerequisites": "ENG4U MCV4U SCH4U SPH4U",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Co-op program"
-    },
-    {
-      "OUAC Code": "ME",
-      "Program Name": "Engineering I",
-      "Previous No. Enrolled": "900 (total for OUAC codes ME and MEC)",
-      "Previous Grade Ranges": "A minimum of high 80s is required for consideration. Admission is by selection.",
-      "Ontario Secondary School Prerequisites": "ENG4U MCV4U SCH4U SPH4U Additional Admission Criteria: Mandatory supplementary application due February 1, 2019. Applicants will be provided with details. OUAC application deadline: January 16, 2019. If you have a strong admission average, you may qualify for free choice of discipline in Level II.",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Co-op or internship application available at the university after registration"
-    },
-    {
-      "OUAC Code": "MTT",
-      "Program Name": "Biotechnology I (Bachelor of Technology)",
-      "Previous No. Enrolled": "240 Enrollment number includes all 3 streams of the Bachelor of Technology",
-      "Previous Grade Ranges": "77-80%",
-      "Ontario Secondary School Prerequisites": "ENG4U MCV4U SCH4U SPH4U",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Co-op program"
-    },
-    {
-      "OUAC Code": "MC",
-      "Program Name": "Computer Science I",
-      "Previous No. Enrolled": "50 (total for OUAC codes MC and MCC)",
-      "Previous Grade Ranges": "90-95%",
-      "Ontario Secondary School Prerequisites": "ENG4U MCV4U 2 of SBI4U, SCH4U, SPH4U, SES4U, ICS4U, TEJ4M",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Co-op or internship application available at the university after registration"
-    },
-    {
-      "OUAC Code": "MEC",
-      "Program Name": "Engineering Coop I",
-      "Previous No. Enrolled": "900 (total for OUAC codes ME and MEC)",
-      "Previous Grade Ranges": "A minimum of high 80s is required for consideration. Admission is by selection.",
-      "Ontario Secondary School Prerequisites": "ENG4U MCV4U SCH4U SPH4U Additional Admission Criteria: Mandatory supplementary application due February 1, 2019. Applicants will be provided with details. OUAC application deadline: January 16, 2019. If you have a strong admission average, you may qualify for free choice of discipline in Level II.",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Co-op program"
-    },
-    {
-      "OUAC Code": "MAT",
-      "Program Name": "Automotive & Vehicle Engineering Technology I (Bachelor of Technology)",
-      "Previous No. Enrolled": "240 Enrollment number includes all 3 streams of the Bachelor of Technology",
-      "Previous Grade Ranges": "77-80%",
-      "Ontario Secondary School Prerequisites": "ENG4U MCV4U SCH4U SPH4U",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Co-op program"
-    },
-    {
-      "OUAC Code": "MNS",
-      "Program Name": "Health Sciences I",
-      "Previous No. Enrolled": 200,
-      "Previous Grade Ranges": "90%+ to be considered",
-      "Ontario Secondary School Prerequisites": "ENG4U 1 of MCV4U, MHF4U, MDM4U SBI4U SCH4U 1 non-math, non-science, non-technology 4U/M credit Visit the program website to find out if a course meets the requirements. Additional Admission Criteria: Admission is by selection. You will not be considered without a completed supplementary application. Supplementary application to be completed in mid-February - applicants will be notified of details. Find further details on the program website. OUAC application deadline: January 16, 2019.",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "",
-      "Program Name": "",
-      "Previous No. Enrolled": "",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "",
-      "Alternative Offer(s)": "",
-      "Co-op Option": ""
-    },
-    {
-      "OUAC Code": "MN",
-      "Program Name": "Nursing I (at McMaster)",
-      "Previous No. Enrolled": 120,
-      "Previous Grade Ranges": "85% + to be considered",
-      "Ontario Secondary School Prerequisites": "ENG4U 1 of MHF4U, MCV4U, MDM4U SBI4U SCH4U Additional Admission Criteria: Both academic and personal qualities are assessed in the selection process by means of your High School Admission Average and CASPer (Computer-based Assessment for Sampling Personal Characteristics). Notes: McMaster's Bachelor of Science in Nursing (BScN) degree program is available at McMaster University, Mohawk College and Conestoga College. Spaces for each applicant group varies from site to site, which may result in fluctuations in the cut-off ranges used for admission. We advise you to contact each institution directly to determine your eligibility for admission and to maximize your chances for admission to our collaborative Nursing program.",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "MY",
-      "Program Name": "Midwifery I",
-      "Previous No. Enrolled": 30,
-      "Previous Grade Ranges": "Minimum of 75% is required for consideration.",
-      "Ontario Secondary School Prerequisites": "ENG4U SBI4U SCH4U Applicants must be Canadian citizens or have permanent resident status prior to applying to the Midwifery program. Additional Admission Criteria: Students must obtain a minimum grade of 75% in each of the required courses and achieve a minimum overall average acceptable by the Faculty. Interview (by invitation). Please note that admission is by selection for this program.",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "MHS",
-      "Program Name": "Studio Art I",
-      "Previous No. Enrolled": 30,
-      "Previous Grade Ranges": "75-78%",
-      "Ontario Secondary School Prerequisites": "ENG4U Additional Admission Criteria: If you wish to be considered for admission to Studio Art I, you must make arrangements to come to McMaster for a portfolio interview. Find full details of the portfolio requirements, how to book an interview, and interview dates on the program website. Contact sota@mcmaster.ca for more information about booking your portfolio interview.",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "MM",
-      "Program Name": "Music I",
-      "Previous No. Enrolled": 30,
-      "Previous Grade Ranges": "75-78%",
-      "Ontario Secondary School Prerequisites": "ENG4U Additional Admission Criteria: Music Audition. Contact the School of the Arts at 905-525-9140, ext. 24246, or sota@mcmaster.ca, to schedule an audition/interview (held in March and April 2019).",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "MH",
-      "Program Name": "Humanities I",
-      "Previous No. Enrolled": 480,
-      "Previous Grade Ranges": "75-78%",
-      "Ontario Secondary School Prerequisites": "ENG4U Additional Admission Criteria: SBI4U is recommended for the Cognitive Science of Language program.",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "MIS",
-      "Program Name": "Honours Integrated Science I",
-      "Previous No. Enrolled": 60,
-      "Previous Grade Ranges": "A minimum of high 80s is required for consideration. Admission is by selection.",
-      "Ontario Secondary School Prerequisites": "ENG4U MHF4U MCV4U 2 of SBI4U, SCH4U, SPH4U Additional Admission Criteria: An online supplementary application is required for admission, and is due February 1, 2019.",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "MZ",
-      "Program Name": "Mathematics and Statistics I",
-      "Previous No. Enrolled": 200,
-      "Previous Grade Ranges": "82-85%",
-      "Ontario Secondary School Prerequisites": "ENG4U MHF4U MCV4U",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Co-op available by major"
-    },
-    {
-      "OUAC Code": "MLS",
-      "Program Name": "Life Sciences I",
-      "Previous No. Enrolled": 1000,
-      "Previous Grade Ranges": "85-88%",
-      "Ontario Secondary School Prerequisites": "ENG4U 1 of MHF4U, MCV4U SBI4U 1 of MHF4U, MCV4U, SCH4U, SPH4U Applicants without MCV4U will take an equivalent calculus course in Level I.",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Co-op available by major"
-    },
-    {
-      "OUAC Code": "MEE",
-      "Program Name": "Environmental and Earth Sciences I",
-      "Previous No. Enrolled": 75,
-      "Previous Grade Ranges": "82-85%",
-      "Ontario Secondary School Prerequisites": "ENG4U 1 of MHF4U, MCV4U 1 of SBI4U, SCH4U 1 of MHF4U, MCV4U, SBI4U, SCH4U, SPH4U Applicants without MCV4U will be required to take an equivalent calculus course in Level I.",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "MPS",
-      "Program Name": "Chemical & Physical Sciences I",
-      "Previous No. Enrolled": 100,
-      "Previous Grade Ranges": "82-85%",
-      "Ontario Secondary School Prerequisites": "ENG4U MHF4U MCV4U SCH4U SPH4U",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Co-op available by major"
-    },
-    {
-      "OUAC Code": "MRS",
-      "Program Name": "Medical Radiation Sciences I",
-      "Previous No. Enrolled": 110,
-      "Previous Grade Ranges": "85-88%",
-      "Ontario Secondary School Prerequisites": "ENG4U MHF4U MCV4U SBI4U SCH4U",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "MV",
-      "Program Name": "Kinesiology I",
-      "Previous No. Enrolled": 200,
-      "Previous Grade Ranges": "87-90%",
-      "Ontario Secondary School Prerequisites": "ENG4U 1 of MHF4U, MCV4U SBI4U MCV4U and PSK4U are recommended Applicants without MCV4U will be required to take an equivalent calculus course in Level I.",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "ML",
-      "Program Name": "Social Sciences I",
-      "Previous No. Enrolled": 1000,
-      "Previous Grade Ranges": "75-78%",
-      "Ontario Secondary School Prerequisites": "ENG4U MHF4U or MCV4U are strongly recommended for students planning to enter programs in Economics or Psychology, Neuroscience & Behaviour. SBI4U is also recommended for students interested in Psychology, Neuroscience & Behaviour.",
-      "Alternative Offer(s)": "If you are interested in specific alternative programs, include your choice(s) on your OUAC application. McMaster will give full consideration to each program selection.",
-      "Co-op Option": "Practicum or internship option available"
-    }
-  ],
-  "Military University":[
-    {
-      "Program Name": "Science",
-      "Previous No. Enrolled": "70 (plus 60 transfers from St. Jean)",
-      "Previous Grade Ranges": "Minimum average of 75%",
-      "Ontario Secondary School Prerequisites": "Six U/M credits, including: ENG4U MHF4U Any 2 of the following: MCV4U, SCH4U, SPH4U or SBI4U Selection is based on academic performance and extracurricular activities that demonstrate leadership potential. If any of your marks are less than 80%, you must demonstrate excellent leadership skills to be competitive. All applications are pre-screened for suitability at Canadian Forces Recruiting Centres before being sent forward for consideration. Comparisons with the OUAC application process are not practical. Additional Admission Criteria: Potential candidates for RMCC are well-rounded individuals. To evaluate this balance, you are assessed in two ways: 1. Academic Performance: To ensure you have the proper prerequisites to enter your program of choice at RMCC, we assess and review your Grade 10, 11 and 12 marks, with your final year of high school results carrying the most weight. As a general guideline, it is recommended that you do not have any marks below 80% to ensure a competitive file. 2. Personal Suitability: We assess your leadership, managerial, administrative, people and interpersonal skills. These skills will have manifested themselves through such activities as holding down a job, mentoring, tutoring, lifeguarding, being a camp counsellor, being a member of a committee at school or in the community, playing sports, involvement in cadets, volunteering, etc. Before applying to RMCC, you must choose a career in the Canadian Forces. To help with choosing a career, or for more information about the Canadian Forces, call the Canadian Forces Recruiting Centre (CFRC) at 1-800-856-8488 or visit: www.recruiting.forces.gc.ca.",
-      "Alternative Offer(s)": "Science and Engineering applicants will be considered for an alternative offer to Arts.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "Program Name": "Engineering",
-      "Previous No. Enrolled": "70 (plus 60 transfers from St. Jean)",
-      "Previous Grade Ranges": "Minimum average of 75%",
-      "Ontario Secondary School Prerequisites": "Six U/M credits, including: ENG4U MHF4U MCV4U SCH4U SPH4U Selection is based on academic performance and extracurricular activities that demonstrate leadership potential. If any of your marks are less than 80%, you must demonstrate excellent leadership skills to be competitive. All applications are pre-screened for suitability at Canadian Forces Recruiting Centres before being sent forward for consideration. Comparisons with the OUAC application process are not practical. Additional Admission Criteria: Potential candidates for RMCC are well-rounded individuals. To evaluate this balance, you are assessed in two ways: 1. Academic Performance: To ensure you have the proper prerequisites to enter your program of choice at RMCC, we assess and review your Grade 10, 11 and 12 marks, with your final year of high school results carrying the most weight. As a general guideline, it is recommended that you do not have any marks below 80% to ensure a competitive file. 2. Personal Suitability: We assess your leadership, managerial, administrative, people and interpersonal skills. These skills will have manifested themselves through such activities as holding down a job, mentoring, tutoring, lifeguarding, being a camp counsellor, being a member of a committee at school or in the community, playing sports, involvement in cadets, volunteering, etc. Before applying to RMC, you must choose a career in the Canadian Forces. To help with choosing a career, or for more information about the Canadian Forces, call the Canadian Forces Recruiting Centre (CFRC) at 1-800-856-8488 or visit: www.recruiting.forces.gc.ca.",
-      "Alternative Offer(s)": "Science and Engineering applicants will be considered for an alternative offer to Arts.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "Program Name": "Social Sciences and the Humanities",
-      "Previous No. Enrolled": "60 (plus 60 transfers from St. Jean)",
-      "Previous Grade Ranges": "Minimum average of 75%",
-      "Ontario Secondary School Prerequisites": "Six U/M credits, including: ENG4U 1 of MHF4U, MCF3M or MCR3U You must have achieved 75% or better in each of the required courses and an overall 75% on the six U/M courses. Selection is based on academic performance and extracurricular activities that demonstrate leadership potential. If any of your grades are less than 80%, you must demonstrate excellent leadership skills to be competitive. All applications are pre-screened for suitability at Canadian Forces Recruiting Centres before being sent forward for consideration. Comparisons with the OUAC application process are not practical. Additional Admission Criteria: Potential candidates for RMCC are well-rounded individuals. To evaluate this balance, you are assessed in two ways: 1. Academic Performance: To ensure you have the proper prerequisites to enter your program of choice at RMCC, we assess and review your Grade 10, 11 and 12 marks, with your final year of high school results carrying the most weight. As a general guideline, it is recommended that you do not have any marks below 80% to ensure a competitive file. 2. Personal Suitability: We assess your leadership, managerial, administrative, people and interpersonal skills. These skills will have manifested themselves through such activities as holding down a job, mentoring, tutoring, lifeguarding, being a camp counsellor, being a member of a committee at school or in the community, playing sports, involvement in cadets, volunteering, etc. Before applying to RMCC, you must choose a career in the Canadian Armed Forces. To help with choosing a career, or for more information about the CAF, call the Canadian Forces Recruiting Centre (CFRC) at 1-800-856-8488 or visit the Canadian Armed Forces website.",
-      "Alternative Offer(s)": "",
-      "Co-op Option": "Not Available"
-    }
-  ],
-  "Nipissing University":[
-    {
-      "OUAC Code": "PEG",
-      "Program Name": "Concurrent Bachelor of Arts Criminal Justice/ Bachelor of Education Intermediate/Senior",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math. Notes: The Legal Studies and Administration stream is open only to Law Clerk diploma graduates. The Corrections and Policing streams are collaborative university and college programs.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PEF",
-      "Program Name": "Concurrent Bachelor of Arts Criminal Justice/ Bachelor of Education Junior/Intermediate",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math. Notes: The Legal Studies and Administration stream is open only to Law Clerk diploma graduates. The Corrections and Policing streams are collaborative university and college programs.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PE",
-      "Program Name": "Concurrent Bachelor of Arts/Bachelor of Education Primary/Junior",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "Computer Science, Mathematics: ENG4U/EAE4U/NBE4U MCV4U One 4U math All other majors: ENG4U/EAE4U/NBE4U Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PED",
-      "Program Name": "Concurrent Bachelor of Arts Criminal Justice/ Bachelor of Education Primary/Junior",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math. Notes: The Legal Studies and Administration stream is open only to Law Clerk diploma graduates. The Corrections and Policing streams are collaborative university and college programs.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PEA",
-      "Program Name": "Concurrent Bachelor of Arts/Bachelor of Education Junior/ Intermediate",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "Computer Science, Mathematics: ENG4U/EAE4U/NBE4U MCV4U One 4U math All other majors: ENG4U/EAE4U/NBE4U Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PEB",
-      "Program Name": "Concurrent Bachelor of Arts/Bachelor of Education Intermediate/ Senior",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "Computer Science, Mathematics: ENG4U/EAE4U/NBE4U MCV4U One 4U math All other majors: ENG4U/EAE4U/NBE4U Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PES",
-      "Program Name": "Concurrent Bachelor of Science/Bachelor of Education Primary/Junior",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "Biology: ENG4U/EAE4U/NBE4U SBI4U SCH4U 1 of MCV4U or MHF4U Environmental Biology and Technology: ENG4U/EAE4U/NBE4U SBI4U SCH4U 1 of MCV4U, MHF4U or SPH4U Computer Science: ENG4U/EAE4U/NBE4U MCV4U 1 other 4U math 1 of SBI4U, SCH4U or SPH4U Environment and Physical Geography: ENG4U/EAE4U/NBE4U 4U Math 1 of SCH4U or SPH4U Mathematics: ENG4U/EAE4U/NBE4U MCV4U MHF4U 1 of SBI4U, SCH4U or SPH4U Psychology: ENG4U/EAE4U/NBE4U MCV4U 1 of SCH4U or SPH4U Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PEU",
-      "Program Name": "Concurrent Bachelor of Science/Bachelor of Education Intermediate/ Senior",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "Biology: ENG4U/EAE4U/NBE4U SBI4U SCH4U 1 of MCV4U or MHF4U Environmental Biology and Technology: ENG4U/EAE4U/NBE4U SBI4U SCH4U 1 of MCV4U, MHF4U or SPH4U Computer Science: ENG4U/EAE4U/NBE4U MCV4U 1 other 4U math 1 of SBI4U, SCH4U or SPH4U Environment and Physical Geography: ENG4U/EAE4U/NBE4U 4U Math 1 of SCH4U or SPH4U Mathematics: ENG4U/EAE4U/NBE4U MCV4U MHF4U 1 of SBI4U, SCH4U or SPH4U Psychology: ENG4U/EAE4U/NBE4U MCV4U 1 of SCH4U or SPH4U Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PET",
-      "Program Name": "Concurrent Bachelor of Science/Bachelor of Education Junior/ Intermediate",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "Biology: ENG4U/EAE4U/NBE4U SBI4U SCH4U 1 of MCV4U or MHF4U Environmental Biology and Technology: ENG4U/EAE4U/NBE4U SBI4U SCH4U 1 of MCV4U, MHF4U or SPH4U Computer Science: ENG4U/EAE4U/NBE4U MCV4U 1 other 4U math 1 of SBI4U, SCH4U or SPH4U Environment and Physical Geography: ENG4U/EAE4U/NBE4U 4U Math 1 of SCH4U or SPH4U Mathematics: ENG4U/EAE4U/NBE4U MCV4U MHF4U 1 of SBI4U, SCH4U or SPH4U Psychology: ENG4U/EAE4U/NBE4U MCV4U 1 of SCH4U or SPH4U Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PAC",
-      "Program Name": "Bachelor of Arts in Social Welfare and Social Development/Social Service Worker diploma (joint program with Canadore College)",
-      "Previous No. Enrolled": "open enrollment",
-      "Previous Grade Ranges": "Min. 70%",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U Notes: This is a collaborative university and college program.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "PA",
-      "Program Name": "Bachelor of Arts",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "Min. 70%",
-      "Ontario Secondary School Prerequisites": "Computer Science, Mathematics: ENG4U/EAE4U/NBE4U MCV4U One 4U math Economics: ENG4U/EAE4U/NBE4U One 4U math All other majors: ENG4U/EAE4U/NBE4U",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "PAJ",
-      "Program Name": "Bachelor of Arts in Criminal Justice",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "Min. 75%",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U Notes: The Legal Studies and Administration stream is open only to Law Clerk diploma graduates. The Corrections and Policing streams are collaborative university and college programs.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "PBA",
-      "Program Name": "Bachelor of Business Administration",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "Min. 70%",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U One 4U math recommended Additional Admission Criteria: If you are admitted without a 4U math, you will be required to take the university equivalent of MDM4U or MCV4U in your first year of the program.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "PFA",
-      "Program Name": "Bachelor of Fine Arts",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "Min. 70%",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U Additional Admission Criteria: If you are admitted to the BFA, you are required to successfully complete the BFA portfolio review by the end of your third year of study to remain in the BFA program. For more information about these admission requirements, contact the Chair of the Department of Fine and Performing Arts.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "PPE",
-      "Program Name": "Bachelor of Physical and Health Education",
-      "Previous No. Enrolled": "120 Limited enrollment, highly competitive program",
-      "Previous Grade Ranges": "Min. 70%. 120 students (max) will be admitted; therefore, the actual admission average may be higher.",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U SBI4U or PSK4U SCH4U and 4U math are recommended Students who have completed the former PSE4U can use this course in place of PSK4U for admission consideration.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "PS",
-      "Program Name": "Bachelor of Science",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "Min. 70%",
-      "Ontario Secondary School Prerequisites": "Biology: ENG4U/EAE4U/NBE4U SBI4U SCH4U 1 of MCV4U or MHF4U Environmental Biology and Technology: ENG4U/EAE4U/NBE4U SBI4U SCH4U 1 of MCV4U, MHF4U or SPH4U Computer Science: ENG4U/EAE4U/NBE4U MCV4U 1 other 4U math 1 of SBI4U, SCH4U or SPH4U Environment and Physical Geography: ENG4U/EAE4U/NBE4U 4U Math 1 of SCH4U or SPH4U Mathematics: ENG4U/EAE4U/NBE4U MCV4U MHF4U 1 of SBI4U, SCH4U or SPH4U Psychology: ENG4U/EAE4U/NBE4U MCV4U 1 of SCH4U or SPH4U Liberal Science: ENG4U/EAE4U/NBE4U 2 of SCH4U, SPH4U or a 4U math (MCV4U or MHF4U)",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "PSN",
-      "Program Name": "Bachelor of Science in Nursing (Collaborative Program with Canadore College)",
-      "Previous No. Enrolled": "96 Limited enrollment, highly competive program",
-      "Previous Grade Ranges": "Min. 70%. 96 students (max) will be admitted. The admission average over the last 3 years was in the low to mid-80s.",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U SBI4U SCH4U A 4U math credit is recommended",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PAB",
-      "Program Name": "Bachelor of Arts/ Bachelor of Commerce",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "Min. 70%",
-      "Ontario Secondary School Prerequisites": "Computer Science, Mathematics: ENG4U/EAE4U/NBE4U MCV4U 1 other 4U math Economics: ENG4U/EAE4U/NBE4U 1 other 4U math All other majors: ENG4U/EAE4U/NBE4U",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "PSS",
-      "Program Name": "Bachelor of Science/ Bachelor of Commerce",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "70% and above",
-      "Ontario Secondary School Prerequisites": "Computer Science: ENG4U/EAE4U/NBE4U MCV4U 1 other 4U math 1 of SBI4U, SCH4U or SPH4U Biology: ENG4U/EAE4U/NBE4U SBI4U SCH4U 1 of MCV4U or MHF4U Environmental Biology and Technology: ENG4U/EAE4U/NBE4U SBI4U SCH4U 1 of MCV4U, MHF4U or SPH4U Environment and Physical Geography: ENG4U/EAE4U/NBE4U One 4U math One of SCH4U or SPH4U Liberal Science: ENG4U/EAE4U/NBE4U 2 of SCH4U, 4U Math (either MCV4U or MHF4U) or SPH4U Mathematics: ENG4U/EAE4U/NBE4U MCV4U MHF4U 1 of SBI4U, SCH4U or SPH4U Psychology: ENG4U/EAE4U/NBE4U MCV4U 1 of SCH4U or SPH4U",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "PEH",
-      "Program Name": "Concurrent Bachelor of Fine Arts/Bachelor of Education Primary/Junior",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math. If you are admitted to the BFA, you are required to successfully complete the BFA portfolio review by the end of your third year of study to remain in the BFA program. For more information about these admission requirements, contact the Chair of the Department of Fine and Performing Arts.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PEI",
-      "Program Name": "Concurrent Bachelor of Fine Arts/Bachelor of Education Junior/ Intermediate",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math. If you are admitted to the BFA, you are required to successfully complete the BFA portfolio review by the end of your third year of study to remain in the BFA program. For more information about these admission requirements, contact the Chair of the Department of Fine and Performing Arts.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PEK",
-      "Program Name": "Concurrent Bachelor of Fine Arts/Bachelor of Education Intermediate/ Senior",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math. If you are admitted to the BFA, you are required to successfully complete the BFA portfolio review by the end of your third year of study to remain in the BFA program. For more information about these admission requirements, contact the Chair of the Department of Fine and Performing Arts.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PEL",
-      "Program Name": "Concurrent Bachelor of Business Administration/ Bachelor of Education Primary/Junior",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U One 4U mathematics is recommended Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math. Students admitted without a 4U mathematics or equivalent will be required to complete MATH 1911 or MATH 1912 in their first year.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PEN",
-      "Program Name": "Concurrent Bachelor of Business Administration/ Bachelor of Education Intermediate/Senior",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U One 4U mathematics is recommended Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math. Students admitted without a 4U mathematics or equivalent will be required to complete MATH 1911 or MATH 1912 in their first year.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PEM",
-      "Program Name": "Concurrent Bachelor of Business Administration/ Bachelor of Education Junior/Intermediate",
-      "Previous No. Enrolled": "Open enrollment",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U One 4U mathematics is recommended Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math. Students admitted without a 4U mathematics or equivalent will be required to complete MATH 1911 or MATH 1912 in their first year.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PER",
-      "Program Name": "Concurrent Bachelor of Physical and Health Education/Bachelor of Education Intermediate/ Senior",
-      "Previous No. Enrolled": "120 students maximum in BPHE (combined Concurrent and non-Concurrent Education)",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U SBI4U or PSK4U SCH4U and 4U math are recommended Students who have completed the former PSE4U can use this course in place of PSK4U for admission consideration. Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math. Notes: This is a highly competitive limited enrollment program.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PEO",
-      "Program Name": "Concurrent Bachelor of Physical and Health Education/Bachelor of Education Primary/Junior",
-      "Previous No. Enrolled": "120 students maximum in BPHE (combined Concurrent and non-Concurrent Education)",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U SBI4U or PSK4U SCH4U and 4U math are recommended Students who have completed the former PSE4U can use this course in place of PSK4U for admission consideration. Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math. Notes: This is a highly competitive limited enrollment program.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "PEQ",
-      "Program Name": "Concurrent Bachelor of Physical and Health Education/Bachelor of Education Junior/ Intermediate",
-      "Previous No. Enrolled": "120 students maximum in BPHE (combined Concurrent and non-Concurrent Education)",
-      "Previous Grade Ranges": "75%",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U SBI4U or PSK4U SCH4U and 4U math are recommended Students who have completed the former PSE4U can use this course in place of PSK4U for admission consideration. Additional Admission Criteria: Minimum 70% in ENG4U/EAE4U/NBE4U and 60% in 3U/M math. Notes: This is a highly competitive limited enrollment program.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Not Available"
-    },
-    {
-      "OUAC Code": "PSW",
-      "Program Name": "Bachelor of Social Work",
-      "Previous No. Enrolled": "Year 3 and 4 requires re- application and will be limited enrollment",
-      "Previous Grade Ranges": "Min. 70%",
-      "Ontario Secondary School Prerequisites": "ENG4U/EAE4U/NBE4U (minimum grade 70%) Additional Admission Criteria: The first 2 years of the program are considered general years. In first year, students are required to take Introduction to Social Work in addition to a variety of electives of your choice. Third and fourth year are considered the professional years of the program. During the second year of the Bachelor of Social Work program, students must apply for admission consideration to the professional years. Admission to the first or second year of the Bachelor of Social Work program does not guarantee acceptance into the professional years.",
-      "Alternative Offer(s)": "If you do not meet the admission requirements or admission averages for the programs you apply to, you will automatically be considered for an alternative program for which you qualify.",
-      "Co-op Option": "Practicum or internship option available"
-    }
-  ],
-  "OCAD University":[
-    {
-      "OUAC Code": "HPR",
-      "Program Name": "Printmaking",
-      "Previous No. Enrolled": "1100 (total first year enrollment in all programs)",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "OSSD with an overall academic average of at least 70% in six 4U/M courses, including ENG4U or EAE4U with a Minimum final grade of 70% Additional Admission Criteria: Admission is based primarily on your portfolio assessment. All offers of admission are conditional on meeting minimum academic requirements Notes: This major begins with OCAD University's common First Year Art program.",
-      "Alternative Offer(s)": "There are no alternative offers.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "HCD",
-      "Program Name": "Cross- Disciplinary Art",
-      "Previous No. Enrolled": "1100 (total first year enrollment in all programs)",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "OSSD with an overall academic average of at least 70% in six 4U/M courses, including ENG4U or EAE4U with a minimum final grade of 70% Additional Admission Criteria: Admission based primarily on your portfolio assessment. All offers of admission are conditional on meeting minimum academic requirements. Notes: Specializations are available in Life Studies or Publications. This major begins with OCAD University's common First Year Art program.",
-      "Alternative Offer(s)": "There are no alternative offers.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "HIG",
-      "Program Name": "Indigenous Visual Culture",
-      "Previous No. Enrolled": "1100 (total first year enrollment in all programs)",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "OSSD with an overall academic average of at least 70% in six 4U/M courses, including ENG4U or EAE4U with a minimum final grade of 70% Additional Admission Criteria: Admission is based primarily on your portfolio assessment. All offers of admission are conditional on meeting minimum academic requirements.",
-      "Alternative Offer(s)": "There are no alternative offers.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "HPT",
-      "Program Name": "Photography",
-      "Previous No. Enrolled": "1100 (total first year enrollment in all programs)",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "OSSD with an overall academic average of at least 70% in six 4U/M courses, including ENG4U or EAE4U with a minimum final grade of 70% Additional Admission Criteria: Admission is based primarily on your portfolio assessment. All offers of admission are conditional on meeting minimum academic requirements. Notes: This major begins with OCAD University's common First Year Art program.",
-      "Alternative Offer(s)": "There are no alternative offers.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "HVC",
-      "Program Name": "Visual and Critical Studies (BA Honours)",
-      "Previous No. Enrolled": "1100 (total first year enrollment in all programs)",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "OSSD with an overall academic average of at least 70% in six 4U/M courses, including ENG4U or EAE4U with a minimum final grade of 70% Additional Admission Criteria: In addition to meeting the academic requirements, you are required to submit the following to be considered for admission: 1. A 1-page Letter of Interest/Creative Profile (300 words maximum) on why you would like to study the liberal arts in a studio setting. 2. An original essay of 500 words on an annually assigned topic. You will be notified by email of the exact dates and deadlines to submit your supplemental application material. Notes: This program is offered under the written consent of the Minister of Advanced Education and Skills Development for the period from June 2012 to June 2020. Prospective students are responsible for satisfying themselves that the program and the degree will be appropriate to their needs (e.g., acceptable to potential employers, professional licensing bodies or other educational institutions).",
-      "Alternative Offer(s)": "There are no alternative offers.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "HIL",
-      "Program Name": "Illustration",
-      "Previous No. Enrolled": "1100 (total first year enrollment in all programs)",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "OSSD with an overall academic average of at least 70% in six 4U/M courses, including ENG4U or EAE4U with a minimum final grade of 70% Additional Admission Criteria: Admission is based primarily on your portfolio assessment. All offers of admission are conditional on meeting minimum academic requirements.",
-      "Alternative Offer(s)": "There are no alternative offers.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "HGD",
-      "Program Name": "Graphic Design",
-      "Previous No. Enrolled": "1100 (total first year enrollment in all programs)",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "OSSD with an overall academic average of at least 70% in six 4U/M courses, including ENG4U or EAE4U with a minimum final grade of 70% Additional Admission Criteria: Admission is based primarily on your portfolio assessment. All offers of admission are conditional on meeting minimum academic requirements.",
-      "Alternative Offer(s)": "There are no alternative offers.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "HID",
-      "Program Name": "Industrial Design",
-      "Previous No. Enrolled": "1100 (total first year enrollment in all programs)",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "OSSD with an overall academic average of at least 70% in six 4U/M courses, including ENG4U or EAE4U with a minimum final grade of 70% Additional Admission Criteria: Admission is based primarily on your portfolio assessment. All offers of admission are conditional on meeting minimum academic requirements.",
-      "Alternative Offer(s)": "There are no alternative offers.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "HDF",
-      "Program Name": "Digital Futures",
-      "Previous No. Enrolled": "1100 (total first year enrollment in all programs)",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "OSSD with an overall academic average of at least 70% in six 4U/M courses, including ENG4U or EAE4U with a minimum final grade of 70% Additional Admission Criteria: Admission based primarily on your portfolio assessment. All offers of admission are conditional on meeting minimum academic requirements.",
-      "Alternative Offer(s)": "There are no alternative offers.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "HSI",
-      "Program Name": "Sculpture/ Installation",
-      "Previous No. Enrolled": "1100 (total first year enrollment in all programs)",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "OSSD with an overall academic average of at least 70% in six 4U/M courses, including ENG4U or EAE4U with a minimum final grade of 70% Additional Admission Criteria: Admission is based primarily on your portfolio assessment. All offers of admission are conditional on meeting minimum academic requirements. Notes: This major begins with OCAD University's common First Year Art program.",
-      "Alternative Offer(s)": "There are no alternative offers.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "HDP",
-      "Program Name": "Drawing & Painting",
-      "Previous No. Enrolled": "1100 (total first year enrollment in all programs)",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "OSSD with an overall academic average of at least 70% in six 4U/M courses, including ENG4U or EAE4U with a minimum final grade of 70% Additional Admission Criteria: Admission is based primarily on your portfolio assessment. All offers of admission are conditional on meeting minimum academic requirements. Notes: You may choose to add a specialization in Digital Painting and Expanded Animation to your program of study.",
-      "Alternative Offer(s)": "You may be admitted directly into this program or to OCAD University's First Year Art program where you can officially request entry to a major during the first year of study.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "HAD",
-      "Program Name": "Advertising",
-      "Previous No. Enrolled": "1100 (total first year enrollment in all programs)",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "OSSD with an overall academic average of at least 70% in six 4U/M courses, including ENG4U or EAE4U with a minimum final grade of 70% Additional Admission Criteria: Admission based primarily on your portfolio assessment. All offers of admission are conditional on meeting minimum academic requirements.",
-      "Alternative Offer(s)": "There are no alternative offers.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "HCP",
-      "Program Name": "Criticism & Curatorial Practice",
-      "Previous No. Enrolled": "1100 (total first year enrollment in all programs)",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "OSSD with an overall academic average of at least 70% in six 4U/M courses, including ENG4U or EAE4U with a minimum final grade of 70% Additional Admission Criteria: Admission based primarily on your portfolio assessment. All offers of admission are conditional on meeting minimum academic requirements. Notes: This major begins with OCAD University's common First Year Art program.",
-      "Alternative Offer(s)": "There are no alternative offers.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "HED",
-      "Program Name": "Environmental Design",
-      "Previous No. Enrolled": "1100 (total first year enrollment in all programs)",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "OSSD with an overall academic average of at least 70% in six 4U/M courses, including ENG4U or EAE4U with a minimum final grade of 70% Additional Admission Criteria: Admission is based primarily on your portfolio assessment. All offers of admission are conditional on meeting minimum academic requirements. Notes: A specialization in Interior Design is available.",
-      "Alternative Offer(s)": "There are no alternative offers.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "HIM",
-      "Program Name": "Integrated Media",
-      "Previous No. Enrolled": "1100 (total first year enrollment in all programs)",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "OSSD with an overall academic average of at least 70% in six 4U/M courses, including ENG4U or EAE4U with a minimum final grade of 70% Additional Admission Criteria: Admission is based primarily on your portfolio assessment. All offers of admission are conditional on meeting minimum academic requirements. Notes: You may choose to add a specialization in Digital Painting and Expanded Animation to your program of study. This major begins with OCAD University's common First Year Art program.",
-      "Alternative Offer(s)": "There are no alternative offers.",
-      "Co-op Option": "Practicum or internship option available"
-    },
-    {
-      "OUAC Code": "HMD",
-      "Program Name": "Material Art & Design",
-      "Previous No. Enrolled": "1100 (total first year enrollment in all programs)",
-      "Previous Grade Ranges": "",
-      "Ontario Secondary School Prerequisites": "OSSD with an overall academic average of at least 70% in six 4U/M courses, including ENG4U or EAE4U with a minimum final grade of 70% Additional Admission Criteria: Admission is based primarily on your portfolio assessment. All offers of admission are conditional on meeting minimum academic requirements.",
-      "Alternative Offer(s)": "There are no alternative offers.",
-      "Co-op Option": "Practicum or internship option available"
-    }
-  ],
-  "University of Ottawa Saint Paul":[
-    {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OAZ",
       "Program Name": "Etudes de Conflits (Baccalaureat es arts specialise) (4 ans)",
       "Previous No. Enrolled": "",
@@ -1788,6 +10,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OCA",
       "Program Name": "Theology (Certificate, Part-time only) (1 year)",
       "Previous No. Enrolled": "",
@@ -1797,6 +20,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OPO",
       "Program Name": "Conflict Resolution (Certificate, Part-time only) (1 year)",
       "Previous No. Enrolled": "",
@@ -1806,6 +30,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OAP",
       "Program Name": "Ethique privee et publique (certificat, temps partiel seulement) (1 an)",
       "Previous No. Enrolled": "",
@@ -1815,6 +40,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OHC",
       "Program Name": "Social communication (Certificate, Part-time only) (1 year)",
       "Previous No. Enrolled": "",
@@ -1824,6 +50,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OAQ",
       "Program Name": "Private and Public Ethics (Certificate, Part-time only) (1 year)",
       "Previous No. Enrolled": "",
@@ -1833,6 +60,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OQB",
       "Program Name": "Theologie (certificat, temps partiel seulement) (1 an)",
       "Previous No. Enrolled": "",
@@ -1842,6 +70,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OPV",
       "Program Name": "Resolution de conflits (certificat, temps partiel seulement) 1 an)",
       "Previous No. Enrolled": "",
@@ -1851,6 +80,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OPE",
       "Program Name": "Public Ethics (Honours Bachelor of Arts) (4 years)",
       "Previous No. Enrolled": "",
@@ -1860,6 +90,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OPG",
       "Program Name": "Human Relations and Spirituality (Honours Bachelor of Arts) (4 years)",
       "Previous No. Enrolled": "",
@@ -1869,6 +100,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OPL",
       "Program Name": "Relations humaines et spiritualite (Baccalaureat es arts specialise) (4 ans)",
       "Previous No. Enrolled": "25 N/A",
@@ -1878,6 +110,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OAG",
       "Program Name": "Honours Bachelor of Arts with Major (4 years)",
       "Previous No. Enrolled": "",
@@ -1887,6 +120,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OCZ",
       "Program Name": "Communications sociales (Baccalaureat es arts specialise) (4 ans)",
       "Previous No. Enrolled": "",
@@ -1896,6 +130,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OEP",
       "Program Name": "Ethique publique (Baccalaureat es arts specialise) (4 ans)",
       "Previous No. Enrolled": "",
@@ -1905,6 +140,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OAH",
       "Program Name": "Baccalaureat es arts specialise avec majeure (4 ans)",
       "Previous No. Enrolled": "",
@@ -1914,6 +150,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OHV",
       "Program Name": "Communications sociales (certificat, temps partiel seulement) (1 an)",
       "Previous No. Enrolled": "",
@@ -1923,6 +160,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OPS",
       "Program Name": "Social Communication (Honours Bachelor of Arts) (4 years)",
       "Previous No. Enrolled": "",
@@ -1932,6 +170,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OAW",
       "Program Name": "Conflict Studies (Honours Bachelor of Arts) (4 years)",
       "Previous No. Enrolled": "38 N/A",
@@ -1941,6 +180,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OPW",
       "Program Name": "Innovation sociale (certificat, temps partiel seulement) (1 an)",
       "Previous No. Enrolled": "",
@@ -1950,6 +190,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa Saint Paul",
       "OUAC Code": "OPY",
       "Program Name": "Innovation sociale (Baccalaureat es arts specialise) (4 ans)",
       "Previous No. Enrolled": "",
@@ -1957,10 +198,9 @@
       "Ontario Secondary School Prerequisites": "OSSD or equivalent Minimum of six 4U/M courses, including ENG4U or FRA4U",
       "Alternative Offer(s)": "",
       "Co-op Option": "Practicum or internship option available"
-    }
-  ],
-  "University of Otttowa":[
+    },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OAD",
       "Program Name": "Environmental Studies (4 years) (English Program) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -1970,6 +210,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OEY",
       "Program Name": "Biomedical Mechanical Engineering and Computing Technology (5-year double degree)",
       "Previous No. Enrolled": "Open",
@@ -1979,6 +220,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "ORE",
       "Program Name": "Computer Science (4-year major) (French immersion available)",
       "Previous No. Enrolled": "Open",
@@ -1988,6 +230,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "ORA",
       "Program Name": "Computer Science and Mathematics (Joint Honours - 4 years)",
       "Previous No. Enrolled": "Open",
@@ -1997,6 +240,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OEC",
       "Program Name": "Biomedical Mechanical Engineering (4 years)",
       "Previous No. Enrolled": "Open",
@@ -2006,6 +250,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OID",
       "Program Name": "Genie electrique et technologie de I'informatique - Double grade (5 ans)",
       "Previous No. Enrolled": "Open",
@@ -2015,6 +260,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OJA",
       "Program Name": "Software Engineering (4 years) (French immersion available)",
       "Previous No. Enrolled": 75,
@@ -2024,6 +270,7 @@
       "Co-op Option": "Co-op program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OBA",
       "Program Name": "Civil Engineering and Computing Technology (5-year double degree)",
       "Previous No. Enrolled": "Open",
@@ -2033,6 +280,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OEF",
       "Program Name": "Genie chimique (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2042,6 +290,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OIE",
       "Program Name": "Electrical Engineering (4 years)",
       "Previous No. Enrolled": "Open",
@@ -2051,6 +300,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OGP",
       "Program Name": "Physique et genie electrique (Double grade - 5 ans)",
       "Previous No. Enrolled": "Open",
@@ -2060,6 +310,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OEB",
       "Program Name": "Genie chimique et technologie de 1'informatique - Double grade (5 ans)",
       "Previous No. Enrolled": "Open",
@@ -2069,6 +320,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OJF",
       "Program Name": "Genie mecanique (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2078,6 +330,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "ORJ",
       "Program Name": "Informatique (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2087,6 +340,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OHE",
       "Program Name": "Civil Engineering (4 years)",
       "Previous No. Enrolled": "Open",
@@ -2096,6 +350,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OBB",
       "Program Name": "Genie civil et technologie de l'informatique - Double grade (5 ans)",
       "Previous No. Enrolled": "Open",
@@ -2105,6 +360,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OBD",
       "Program Name": "Genie informatique (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2114,6 +370,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OJB",
       "Program Name": "Genie logiciel (4 ans)",
       "Previous No. Enrolled": 75,
@@ -2123,6 +380,7 @@
       "Co-op Option": "Co-op program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OBC",
       "Program Name": "Mechanical Engineering and Computing Technology (5-year double degree)",
       "Previous No. Enrolled": "Open",
@@ -2132,6 +390,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OEE",
       "Program Name": "Chemical Engineering (4 years)",
       "Previous No. Enrolled": "Open",
@@ -2141,6 +400,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OEA",
       "Program Name": "Chemical Engineering and Computing Technology (5-year double degree)",
       "Previous No. Enrolled": "Open",
@@ -2150,6 +410,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OIF",
       "Program Name": "Genie electrique (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2159,6 +420,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OEZ",
       "Program Name": "Genie mecanique biomedical et technologie de 1'informatique - Double grade (5 ans)",
       "Previous No. Enrolled": "Open",
@@ -2168,6 +430,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OHF",
       "Program Name": "Genie civil (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2177,6 +440,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OBE",
       "Program Name": "Computer Engineering (4 years) (French immersion available)",
       "Previous No. Enrolled": "Open",
@@ -2185,7 +449,7 @@
       "Alternative Offer(s)": "",
       "Co-op Option": "Co-op option available with this program"
     },
-    {
+    {"School Name": "University of Ottawa",
       "OUAC Code": "OIC",
       "Program Name": "Electrical Engineering and Computing Technology (5-year double degree)",
       "Previous No. Enrolled": "Open",
@@ -2195,6 +459,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OEH",
       "Program Name": "Genie mecanique biomedical (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2204,6 +469,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OBO",
       "Program Name": "Genie mecanique et technologie de I'informatique - Double grade (5 ans)",
       "Previous No. Enrolled": "Open",
@@ -2213,6 +479,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "ORF",
       "Program Name": "Informatique (4 ans - Majeure)",
       "Previous No. Enrolled": "Open",
@@ -2222,6 +489,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "ORH",
       "Program Name": "Informatique et mathematiques (Bidisciplinaire - 4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2231,6 +499,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OSE",
       "Program Name": "Physics and Electrical Engineering (Double degree - 5 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -2240,6 +509,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZK",
       "Program Name": "Musique et geologie (Double grade - 5 ans)",
       "Previous No. Enrolled": "Open",
@@ -2249,6 +519,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OAF",
       "Program Name": "Etudes de l'environnement (4 ans) (Programme en franfais)",
       "Previous No. Enrolled": "Open",
@@ -2258,6 +529,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OAA",
       "Program Name": "Arts (4 years)",
       "Previous No. Enrolled": "Open",
@@ -2267,6 +539,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OAB",
       "Program Name": "Arts (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2276,6 +549,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OAC",
       "Program Name": "Ethics ans Political Philosophy (4 years)",
       "Previous No. Enrolled": "Open",
@@ -2285,6 +559,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OAA",
       "Program Name": "Ethique et Philosophie politique (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2294,6 +569,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OAE",
       "Program Name": "Pratique theatrale en jeu (3 ans)",
       "Previous No. Enrolled": 16,
@@ -2303,6 +579,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OCB",
       "Program Name": "Acting (3 years)",
       "Previous No. Enrolled": 16,
@@ -2312,6 +589,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "ODA",
       "Program Name": "Digital Journalism (Joint program with Algonquin College) (4.5 years)",
       "Previous No. Enrolled": "Open",
@@ -2321,6 +599,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "ODN",
       "Program Name": "Journalisme numerique (4,5 ans)",
       "Previous No. Enrolled": "Open",
@@ -2330,6 +609,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVV",
       "Program Name": "Medieval Renaissance Studies (4-year major) (French immersion available)",
       "Previous No. Enrolled": "Open",
@@ -2339,6 +619,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVR",
       "Program Name": "French as a Second Language (4-year major)",
       "Previous No. Enrolled": "Open",
@@ -2348,6 +629,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVC",
       "Program Name": "Geography (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -2357,6 +639,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVK",
       "Program Name": "Second Language Teaching (ESL) (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -2366,6 +649,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVJ",
       "Program Name": "Religious Studies (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -2375,6 +659,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVP",
       "Program Name": "Aboriginal Studies (4-year major) (French immersion available)",
       "Previous No. Enrolled": "Open",
@@ -2384,6 +669,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZA",
       "Program Name": "Arts visuels (B.A.) (4 ans - majeure)",
       "Previous No. Enrolled": "Open",
@@ -2393,6 +679,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYC",
       "Program Name": "Communication (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2402,6 +689,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVZ",
       "Program Name": "Communication and Sociology (Joint Honours - 4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -2411,6 +699,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYH",
       "Program Name": "Etudes de l'environnement (4 ans) (Programme bilingue)",
       "Previous No. Enrolled": "Open",
@@ -2420,6 +709,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OMF",
       "Program Name": "Musique (B.Mus.) (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2429,6 +719,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OAL",
       "Program Name": "Lettres franfaises et education (Double grade - 5 ans)",
       "Previous No. Enrolled": "Open",
@@ -2438,6 +729,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYT",
       "Program Name": "Etudes autochtones (4 ans - majeure)",
       "Previous No. Enrolled": "Open",
@@ -2447,6 +739,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYI",
       "Program Name": "Geographie (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2456,6 +749,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYJ",
       "Program Name": "Histoire (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2465,6 +759,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYV",
       "Program Name": "Histoire de l'art (4 ans - majeure)",
       "Previous No. Enrolled": "Open",
@@ -2474,6 +769,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYL",
       "Program Name": "Linguistique (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2483,6 +779,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYN",
       "Program Name": "Philosophie (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2492,6 +789,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYO",
       "Program Name": "Sciences des religions (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2501,6 +799,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYM",
       "Program Name": "Musique (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2510,6 +809,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZN",
       "Program Name": "Musique et physique (Double grade - 5 ans)",
       "Previous No. Enrolled": "Open",
@@ -2519,6 +819,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYD",
       "Program Name": "Didactique des langues secondes (ESL) (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2528,6 +829,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYE",
       "Program Name": "Didactique des langues secondes (FLS) (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2537,6 +839,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZL",
       "Program Name": "Musique et informatique (Double grade - 5 ans)",
       "Previous No. Enrolled": "Open",
@@ -2546,6 +849,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZF",
       "Program Name": "Philosophie et science politique (Bidisciplinaire - 4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2555,6 +859,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZO",
       "Program Name": "Musique et statistique (Double grade - 5 ans)",
       "Previous No. Enrolled": "Open",
@@ -2564,6 +869,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZG",
       "Program Name": "Psychologie et linguistique (Bidisciplinaire - 4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2573,6 +879,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYP",
       "Program Name": "Theatre (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2582,6 +889,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYQ",
       "Program Name": "Traduction (anglais-franqais) (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2591,6 +899,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZM",
       "Program Name": "Musique et mathematiques (Double grade - 5 ans)",
       "Previous No. Enrolled": "Open",
@@ -2600,6 +909,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZD",
       "Program Name": "Communication et sociologie (Bidisciplinaire - 4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2609,6 +919,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OPA",
       "Program Name": "Public Relations - Joint program with Algonquin College (4.5 years)",
       "Previous No. Enrolled": "Open",
@@ -2618,6 +929,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OME",
       "Program Name": "Music (BMus) (4 years)",
       "Previous No. Enrolled": "Open",
@@ -2627,6 +939,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZB",
       "Program Name": "Communication et lettres franqaises (Bidisciplinaire - 4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2636,6 +949,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVG",
       "Program Name": "Linguistics (4 years)",
       "Previous No. Enrolled": "Open",
@@ -2645,6 +959,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVN",
       "Program Name": "Theatre (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -2654,6 +969,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZJ",
       "Program Name": "Musique et chimie (Double grade - 5 ans)",
       "Previous No. Enrolled": "Open",
@@ -2663,6 +979,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZI",
       "Program Name": "Musique et biologie (Double grade - 5 ans)",
       "Previous No. Enrolled": "Open",
@@ -2672,6 +989,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYB",
       "Program Name": "Antiquite grecque et romaine (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2681,6 +999,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OLL",
       "Program Name": "Juris Doctor et science politique (Double grade - 6 ans)",
       "Previous No. Enrolled": "Open",
@@ -2690,6 +1009,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZH",
       "Program Name": "Musique et biochimie (Double grade - 5 ans)",
       "Previous No. Enrolled": "Open",
@@ -2699,6 +1019,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVE",
       "Program Name": "Visual Arts (BFA) (4 years)",
       "Previous No. Enrolled": "Open",
@@ -2708,6 +1029,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYK",
       "Program Name": "Lettres franfaises (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2717,6 +1039,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVA",
       "Program Name": "English (4 years)",
       "Previous No. Enrolled": "Open",
@@ -2726,6 +1049,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVF",
       "Program Name": "History (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -2735,6 +1059,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVT",
       "Program Name": "Art History (4-year major) (French immersion available)",
       "Previous No. Enrolled": "Open",
@@ -2744,6 +1069,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVH",
       "Program Name": "Music (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -2753,6 +1079,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVI",
       "Program Name": "Philosophy (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -2762,6 +1089,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUG",
       "Program Name": "Music and Geology (5-year double degree)",
       "Previous No. Enrolled": "Open",
@@ -2771,6 +1099,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUF",
       "Program Name": "Music and Computer Science (5-year double degree)",
       "Previous No. Enrolled": "Open",
@@ -2780,6 +1109,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUI",
       "Program Name": "Music and Physics (5-year double degree)",
       "Previous No. Enrolled": "Open",
@@ -2789,6 +1119,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUH",
       "Program Name": "Music and Mathematics (5-year double degree)",
       "Previous No. Enrolled": "Open",
@@ -2798,6 +1129,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUJ",
       "Program Name": "Music and Statistics (5-year double degree)",
       "Previous No. Enrolled": "Open",
@@ -2807,6 +1139,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVO",
       "Program Name": "Translation (French-English) (4 years)",
       "Previous No. Enrolled": "Open",
@@ -2816,6 +1149,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUK",
       "Program Name": "Visual Arts (4-year major) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -2825,6 +1159,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUE",
       "Program Name": "Music and Chemistry (5-year double degree)",
       "Previous No. Enrolled": "Open",
@@ -2834,6 +1169,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUA",
       "Program Name": "Philosophy and Political Science (Joint Honours - 4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -2843,6 +1179,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUB",
       "Program Name": "Psychology and Linguistics (Joint Honours - 4 years)",
       "Previous No. Enrolled": "Open",
@@ -2852,6 +1189,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OAU",
       "Program Name": "Arts (3 years)",
       "Previous No. Enrolled": "Open",
@@ -2861,6 +1199,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYR",
       "Program Name": "Anglais langue seconde (4 ans - majeure)",
       "Previous No. Enrolled": "Open",
@@ -2870,6 +1209,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OV",
       "Program Name": "Communication (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -2879,6 +1219,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZC",
       "Program Name": "Communication et science politique (Bidisciplinaire - 4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2888,6 +1229,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVB",
       "Program Name": "Environmental Studies (4 years) (Bilingual program)",
       "Previous No. Enrolled": "Open",
@@ -2897,6 +1239,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVD",
       "Program Name": "Greek and Roman Studies (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -2906,6 +1249,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZE",
       "Program Name": "Histoire et science politique (Bidisciplinaire - 4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2915,6 +1259,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUC",
       "Program Name": "Music and Biochemistry (5-year double degree)",
       "Previous No. Enrolled": "Open",
@@ -2924,6 +1269,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUD",
       "Program Name": "Music and Biology (5-year double degree)",
       "Previous No. Enrolled": "Open",
@@ -2933,6 +1279,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OAV",
       "Program Name": "Arts (3 ans)",
       "Previous No. Enrolled": "Open",
@@ -2942,6 +1289,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZ",
       "Program Name": "Arts visuels (B.A.V.) (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -2951,6 +1299,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OPR",
       "Program Name": "Relations publiques et communication (4,5 ans)",
       "Previous No. Enrolled": "Open",
@@ -2960,6 +1309,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVY",
       "Program Name": "Communication and Political Science (Joint Honours - 4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -2969,6 +1319,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OYU",
       "Program Name": "Etudes medievales et de la renaissance (4 ans - majeure)",
       "Previous No. Enrolled": "Open",
@@ -2978,6 +1329,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OU",
       "Program Name": "History and Political Science (Joint Honours - 4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -2987,6 +1339,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OVL",
       "Program Name": "Second Language Teaching (FLS) (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -2996,6 +1349,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "ONE",
       "Program Name": "Nursing (4 years) - Ottawa Campus (French immersion is available)",
       "Previous No. Enrolled": 120,
@@ -3005,6 +1359,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OKN",
       "Program Name": "Nutrition - Baccalaureat en sciences de la nutrition (B.Sc.Nut.)",
       "Previous No. Enrolled": 60,
@@ -3014,6 +1369,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUL",
       "Program Name": "Human Kinetics - Bachelor of Science (BScHK) (4 years) with emphasis on biophysical sciences (French immersion available)",
       "Previous No. Enrolled": "Open",
@@ -3023,6 +1379,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OKC",
       "Program Name": "Health Sciences (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3032,6 +1389,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OFE",
       "Program Name": "Activite physique - (B.Sc.S.A.P.) - Option sciences biophysiques",
       "Previous No. Enrolled": "Open",
@@ -3041,6 +1399,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OFD",
       "Program Name": "Activite physique - (B.S.A.P.) - Option sciences sociales",
       "Previous No. Enrolled": "Open",
@@ -3050,6 +1409,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OWC",
       "Program Name": "Nursing (4 years) - Algonquin College (Pembroke Campus)",
       "Previous No. Enrolled": 45,
@@ -3059,6 +1419,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "ONF",
       "Program Name": "Sciences infirmieres - Programme collaboratif avec La Cite (4 ans)",
       "Previous No. Enrolled": 80,
@@ -3068,6 +1429,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OKD",
       "Program Name": "Sciences de la sante (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3077,6 +1439,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "ONA",
       "Program Name": "Nursing (4 years) - Algonquin Woodroffe Campus",
       "Previous No. Enrolled": 125,
@@ -3086,6 +1449,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OKA",
       "Program Name": "Human Kinetics (BHK) (4 years) with emphasis on social sciences (French immersion available)",
       "Previous No. Enrolled": "Open",
@@ -3095,6 +1459,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OKB",
       "Program Name": "Activite physique - Baccalaureat es sciences specialise en sciences de 1'activite physique (B.Sc.S.A.P.) - Option sciences biophysiques; Baccalaureat en sciences de l'activite physique (B.S.A.P.) - Option sciences sociales",
       "Previous No. Enrolled": "Open",
@@ -3104,6 +1469,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OTC",
       "Program Name": "Accounting (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3113,6 +1479,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OTT",
       "Program Name": "Sciences commercials - Gestion des ressources humaines (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3122,6 +1489,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OTS",
       "Program Name": "Commerce - International Management (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3131,6 +1499,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OTA",
       "Program Name": "Commerce - Healthcare Analytics (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3140,6 +1509,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OTB",
       "Program Name": "Sciences commercials - Analytique en soins de sante (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3149,6 +1519,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OJM",
       "Program Name": "Commerce et Juris Doctor (Double grade - 5 ans) (French immersion)",
       "Previous No. Enrolled": "Open",
@@ -3158,6 +1529,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OTR",
       "Program Name": "Sciences commerciales - Finance (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3167,6 +1539,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OTX",
       "Program Name": "Sciences commerciales - Management (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3176,6 +1549,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OTZ",
       "Program Name": "Sciences commerciales - Marketing (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3185,6 +1559,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OGC",
       "Program Name": "Commerce - Management Information Systems & Analytics",
       "Previous No. Enrolled": "Open",
@@ -3194,6 +1569,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OJD",
       "Program Name": "Commerce et Juris Doctor (Double grade - 5 ans)",
       "Previous No. Enrolled": "Open",
@@ -3203,6 +1579,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OTO",
       "Program Name": "Commerce - Finance (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3212,6 +1589,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OTQ",
       "Program Name": "Commerce - Human Resource Management (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3221,6 +1599,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OTW",
       "Program Name": "Commerce - Marketing (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3230,6 +1609,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OTF",
       "Program Name": "Comptabilite (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3239,6 +1619,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OTU",
       "Program Name": "Commerce - Management (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3248,6 +1629,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OTV",
       "Program Name": "Sciences commerciales - Gestion internationale (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3257,6 +1639,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OGD",
       "Program Name": "Sciences commercials - Systeme d'information de gestion et analytique d'affaires",
       "Previous No. Enrolled": 100,
@@ -3266,6 +1649,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUQ",
       "Program Name": "Biochemistry (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3275,6 +1659,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "ORC",
       "Program Name": "Computer Science (4 years) (French immersion available)",
       "Previous No. Enrolled": "Open",
@@ -3284,6 +1669,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUR",
       "Program Name": "Biology (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3293,6 +1679,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OF",
       "Program Name": "Physique (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3302,6 +1689,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZP",
       "Program Name": "Sciences biomedicales (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3311,6 +1699,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OSY",
       "Program Name": "Biotechnology (Biochemistry and Chemical Engineering) (5-year double degree)",
       "Previous No. Enrolled": "Open",
@@ -3320,6 +1709,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OFC",
       "Program Name": "Mathematiques et science economique (Bidisciplinaire - 4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3329,6 +1719,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUO",
       "Program Name": "Environmental Science (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3338,6 +1729,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZZ",
       "Program Name": "Mathematiques financieres et economie (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3347,6 +1739,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUV",
       "Program Name": "Geology-Physics (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3356,6 +1749,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUS",
       "Program Name": "Chemistry (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3365,6 +1759,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUY",
       "Program Name": "Physics and Mathematics (Joint Honours - 4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3374,6 +1769,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZQ",
       "Program Name": "Sciences biopharmaceutiques (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3383,6 +1779,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUX",
       "Program Name": "Physics (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3392,6 +1789,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZR",
       "Program Name": "Sciences environnementales (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3401,6 +1799,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OFB",
       "Program Name": "Statistique (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3410,6 +1809,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OFA",
       "Program Name": "Physique et mathematiques (Bidisciplinaire - 4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3419,6 +1819,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZX",
       "Program Name": "Geologie-physique (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3428,6 +1829,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZW",
       "Program Name": "Geologie (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3437,6 +1839,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUZ",
       "Program Name": "Statistics (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3446,6 +1849,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OSX",
       "Program Name": "Biotechnologie (biochimie et genie chimique) (Double grade - 5 ans)",
       "Previous No. Enrolled": "Open",
@@ -3455,6 +1859,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUN",
       "Program Name": "Biomedical Science (4 years)",
       "Previous No. Enrolled": "Open",
@@ -3464,6 +1869,7 @@
       "Co-op Option": "Not Available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OJE",
       "Program Name": "Mechanical Engineering (4 years)",
       "Previous No. Enrolled": "Open",
@@ -3473,6 +1879,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZU",
       "Program Name": "Biologie (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3482,6 +1889,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZT",
       "Program Name": "Biochimie (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3491,6 +1899,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZV",
       "Program Name": "Chimie (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3500,6 +1909,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUT",
       "Program Name": "Financial Mathematics and Economics (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3509,6 +1919,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUU",
       "Program Name": "Geology (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3518,6 +1929,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OX",
       "Program Name": "Mathematics and Economics (Joint - 4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3527,6 +1939,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OZY",
       "Program Name": "Mathematiques (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3536,6 +1949,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUP",
       "Program Name": "Ophthalmic Medical Technology (4 years)",
       "Previous No. Enrolled": "Open",
@@ -3545,6 +1959,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUM",
       "Program Name": "Biopharmaceutical Sciences (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3554,6 +1969,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OUW",
       "Program Name": "Mathematics (4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
@@ -3563,6 +1979,7 @@
       "Co-op Option": "Co-op option available with this program"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OWH",
       "Program Name": "Technologie medicale en ophtalmologie (4 ans)",
       "Previous No. Enrolled": "Open",
@@ -3572,6 +1989,7 @@
       "Co-op Option": "Practicum or internship option available"
     },
     {
+      "School Name": "University of Ottawa",
       "OUAC Code": "OXT",
       "Program Name": "Communication and Sociology (Joint Honours - 4 years) (French immersion is available)",
       "Previous No. Enrolled": "Open",
