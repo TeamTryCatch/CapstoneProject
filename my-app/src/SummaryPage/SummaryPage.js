@@ -19,7 +19,7 @@ class SummaryPage extends Component {
 
         this.state = {
             columnDefs: [
-                {headerName: "School Name", field: "School Name", cellRenderer: this.customCellRendererFunc, rowGroup: true, hide: false, filter: "agTextColumnFilter"},
+                {headerName: "School Name", field: "School Name", cellRenderer: this.customCellRendererFunc, rowGroup: true, hide: true, filter: "agTextColumnFilter"},
                 {headerName: "OUAC Code", field: "OUAC Code", filter: "agTextColumnFilter"},
                 {headerName: "Program Name", field: "Program Name", filter: "agTextColumnFilter"},
                 {headerName: "Ontario Secondary School Prerequisites", field: "Ontario Secondary School Prerequisites", filter: "agTextColumnFilter"},
