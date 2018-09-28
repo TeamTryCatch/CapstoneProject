@@ -1,0 +1,24 @@
+
+[
+    {
+      "Univesity": "Algoma",
+      "Graduate": 0,
+      "Undergraduate": 1059,
+      "lat":46.50188,
+      "lng":-84.28864
+    },
+    {
+        "Univesity": "Brock University",
+        "Graduate": 1264,
+        "Undergraduate": 14298,
+        "lat":43.1190,
+        "lng":-79.2490
+      },
+      {
+        "Univesity": "Carleton University",
+        "Graduate": 3318,
+        "Undergraduate": 20569,
+        "lat":45.3831,
+        "lng":-75.6976
+      }
+  ]

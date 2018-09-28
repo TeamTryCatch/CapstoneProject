@@ -5,6 +5,7 @@ import GridExample from './SummaryPage/SummaryPage.js';
 import {AgGridReact} from 'ag-grid-react';
 import 'ag-grid-community/dist/styles/ag-grid.css';
 import 'ag-grid-community/dist/styles/ag-theme-balham.css';
+import SearchMaps from './SearchMaps/Chart';
 class App extends Component {
   
   getData = () => {
@@ -13,7 +14,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-
+   
       <GridExample />
           {/* <button onClick={this.getData}>Print JSON DATA</button> */}
       </div>
