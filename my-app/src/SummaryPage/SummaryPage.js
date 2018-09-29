@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import { render } from "react-dom";
 import { AgGridReact } from "ag-grid-react";
 import "ag-grid-enterprise";
+import axios from 'axios';
 import { withStyles } from '@material-ui/core/styles';
 import Checkbox from '@material-ui/core/Checkbox';
 import Favorite from '@material-ui/icons/Favorite';
@@ -11,40 +12,83 @@ import 'ag-grid-community/dist/styles/ag-grid.css';
 import 'ag-grid-community/dist/styles/ag-theme-material.css';
 
 class SummaryPage extends Component {
+    //Mlab connection components
+    apiKey = "GHF_fQJwxDvNGngFhssgK2wErpwrtvKk";
+    myDB =  "capstonetest";
+    myCollection = "someJsonData";
+    //Sending test data
+    capstoneJson = {
+        name: "ABCD University",
+        program: "Software developer"
+    }
     constructor(props) {
         super(props);
 
         this.state = {
-            columnDefs: [
-                {headerName: "School Name", field: "School Name", rowGroup: true, width: 150, hide: true, filter: "agTextColumnFilter",
-                cellRenderer: this.universityCellRenderer,
-                cellEditorParams: 
-                {cellRenderer: this.universityCellRenderer},
-        },
-                {headerName: "Favourite", field: "Program Name", cellRendererFramework: Checkbox, checkBoxSelection: true},
-                {headerName: "Program Name", field: "Program Name", filter: "agTextColumnFilter"},
-                {headerName: "Ontario Secondary School Prerequisites", field: "Ontario Secondary School Prerequisites", filter: "agTextColumnFilter"},
-                {headerName: "Co-op Option", field: "Co-op Option", filter: "agTextColumnFilter"},
-        ],
-        rowSelection: "multiple",
-        groupDefaultExpanded: 1,
-        //rowData: UniversityData,
-        getQuickFilterText: function(params) {
-            return params.value.name;
-        },
+            
+            rowData: [],
+            groupDefaultExpanded: 1,
         };
     }
-
+    sendData(text){
+        axios.request({
+          method: 'post',
+          url: "mongodb://ssharm02:erub26er@ds117623.mlab.com:17623/capstone",
+         //url: "https://api.mlab.com/api/1/databases/capstonetest/collections/capstoneJson/?apiKey=6POnsQQ2_wNmktZw1j7WPJdizxKPJCul",
+          data: {
+            UniversityData
+          }
+        }).then((response) => {
+          let tasks = this.state.tasks;
+          tasks.push({ _id: response.data._id,text: text,completed: false});
+        }).catch((error) => {
+          console.log(error);
+        });
+      }
+      componentDidMount(){
+          console.log('IS THIS RUNNING');
+        //axios.get('https://api.mlab.com/api/1/databases/meanstackapp/collections/users/?apiKey=6POnsQQ2_wNmktZw1j7WPJdizxKPJCul').then(function(res) {console.log(res.data)});
+        axios.get('https://api.mlab.com/api/1/databases/capstone/collections/admissions/?apiKey=S-saaKBKxxTCWaasa-k7gxYZIipkFSfx').then(function(res){console.log(res.data[0]._id)})
+        console.log('success');
+      }
     onGridReady(params) {
         this.gridApi = params.api;
         this.gridColumnApi = params.columnApi;
         this.setState({ rowData: UniversityData });
     };
-
     onBtForEachNode() {
         console.log("### api.forEachNode() ###");
-        this.gridApi.forEachNode(this.printNode);
+        // this.gridApi.forEachNode(this.printNode);
+        // this.gridApi.onSelectionChanged = function () {
+        //     console.log(this.gridOptions.api.getSelectedRows().length);
+        // }
+        let x = this.gridOptions.api.getSelectedRows().length;
+        console.log('Value of x is ', x);
+        // this.gridApi.getDisplayedRowAtIndex(function(node) {
+        //     let x = node.isSelected();
+        //     console.log(x);
+        // })
+
       }
+    //Column Definitions, Row data is returned fromn the Json in Data folder
+    createColumns() {
+       return [
+            {headerName: "School Name", field: "School Name", rowGroup: true, width: 150, hide: true, filter: "agTextColumnFilter",
+            cellRenderer: this.universityCellRenderer,
+            cellEditorParams: 
+            {cellRenderer: this.universityCellRenderer},
+    },
+            {headerName: "Favourite", field: "Program Name", cellRendererFramework: Checkbox, checkboxSelection: function(params) {
+               // console.log('this is test');
+              },},  ///cellRendererFramework: Checkbox, checkBoxSelection: true},
+            {headerName: "Program Name", field: "Program Name", filter: "agTextColumnFilter"},
+            {headerName: "Ontario Secondary School Prerequisites", field: "Ontario Secondary School Prerequisites", filter: "agTextColumnFilter"},
+            {headerName: "Co-op Option", field: "Co-op Option", filter: "agTextColumnFilter"},
+        ]
+    }
+    createRows() {
+        return this.setState({ rowData: UniversityData });
+    }
     universityCellRenderer(params) {
         const UNI_CODES = {
             "Algoma University": "Algoma",
@@ -108,11 +152,13 @@ class SummaryPage extends Component {
                     width: '2000px' 
                 }} 
                     >
+                    <button onClick={this.sendData}>Send Json to Mlab</button>
                     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"></link>
                     <button onClick={this.onBtForEachNode.bind(this)}>This is a test</button>
                     <AgGridReact
-                    // gridOptions={this.gridOptions}
-                    // onGridReady={this.onGridReady}
+                    gridOptions={this.gridOptions}
+                    onGridReady={this.onGridReady}
+                    rowSelection={this.state.rowSelection}
                     animateRows={true}
                     onGridReady={this.onGridReady.bind(this)}
                     enableRangeSelection={true}
@@ -121,8 +167,8 @@ class SummaryPage extends Component {
                     enableSorting={true}
                     enableFilter={true}
                     floatingFilter={true}
-                    columnDefs={this.state.columnDefs}
-                    rowData={this.state.rowData}>
+                    columnDefs={this.createColumns()}
+                    rowData={UniversityData}>
                     </AgGridReact>
                 </div>
             );

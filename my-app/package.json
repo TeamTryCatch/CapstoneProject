@@ -9,6 +9,8 @@
     "ag-grid-community": "^19.0.0",
     "ag-grid-enterprise": "^19.0.0",
     "ag-grid-react": "^19.0.0",
+    "axios": "^0.18.0",
+    "cors": "^2.8.4",
     "google-maps-react": "^2.0.2",
     "highcharts": "^6.1.4",
     "highcharts-exporting": "^0.1.7",
