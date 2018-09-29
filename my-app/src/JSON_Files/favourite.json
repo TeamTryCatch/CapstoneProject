@@ -1,0 +1,55 @@
+{
+    "userFavourite": [
+       {
+        "school": "Algoma University",
+        "ouacCode": "JAB",
+        "program": "Child Health",
+        "previousGradeRanges": "65%",
+        "prerequisites": "ENG4U 5 other 4U/M courses 65% combined average in top six 4U/M courses Notes: Anishinaabemowin is a unique program offering basic-to-advanced level instruction in the Ojibwe language. It is the only 3-year Bachelor of Arts degree in Canada focusing on the Ojibwe language and culture."
+    },
+    {
+        "school": "Carleton University",
+        "ouacCode": "JDA",
+        "program": "Business Administration (BBA 4 year)",
+        "Previous No. Enrolled": "This is an open enrollment program. First-year admissions are not capped.",
+        "previousGradeRanges": "70%+",
+        "prerequisites": "ENG4U Two 4U/M math courses (Data Management recommended) Three other 4U/M courses 70% combined average in top six 4U/M courses Notes: The exciting and fast-paced world of business needs progressive and creative thinkers. In Algoma University's BBA program, students learn real-world business strategies using the case study beginning immediately in first year. BBA students may choose to minor in Accounting, Economics, Human Resources Management or Marketing."
+    },
+
+    { 
+        "school": "Brock University", 
+        "ouacCode": "JDA",
+         "program": "Public Health", 
+         "Previous No. Enrolled": "This is an open enrollment program. First-year admissions are not capped.",
+          "previousGradeRanges": "70%+",
+         "prerequisites": "ENG4U Two 4U/M math courses (Data Management recommended) Three other 4U/M courses 70% combined average in top six 4U/M courses Notes: The exciting and fast-paced world of business needs progressive and creative thinkers. In Algoma University's BBA program, students learn real-world business strategies using the case study beginning immediately in first year. BBA students may choose to minor in Accounting, Economics, Human Resources Management or Marketing." 
+        },
+
+        {
+            "school": "Brock University",
+            "ouacCode": "JDA",
+            "program": "Public Health",
+            "Previous No. Enrolled": "This is an open enrollment program. First-year admissions are not capped.",
+            "previousGradeRanges": "70%+",
+            "prerequisites": "ENG4U Two 4U/M math courses (Data Management recommended) Three other 4U/M courses 70% combined average in top six 4U/M courses Notes: The exciting and fast-paced world of business needs progressive and creative thinkers. In Algoma University's BBA program, students learn real-world business strategies using the case study beginning immediately in first year. BBA students may choose to minor in Accounting, Economics, Human Resources Management or Marketing."
+        },
+
+        {
+            "school": "University of Guelph",
+            "ouacCode": "JDA",
+            "program": "Biological Engineering",
+            "Previous No. Enrolled": "This is an open enrollment program. First-year admissions are not capped.",
+            "previousGradeRanges": "70%+",
+            "prerequisites": "ENG4U Two 4U/M math courses (Data Management recommended) Three other 4U/M courses 70% combined average in top six 4U/M courses Notes: The exciting and fast-paced world of business needs progressive and creative thinkers. In Algoma University's BBA program, students learn real-world business strategies using the case study beginning immediately in first year. BBA students may choose to minor in Accounting, Economics, Human Resources Management or Marketing."
+        },
+
+        {
+            "school": "Hearst University",
+            "ouacCode": "JDA",
+            "program": "Psychology",
+            "Previous No. Enrolled": "This is an open enrollment program. First-year admissions are not capped.",
+            "previousGradeRanges": "70%+",
+            "prerequisites": "ENG4U Two 4U/M math courses (Data Management recommended) Three other 4U/M courses 70% combined average in top six 4U/M courses Notes: The exciting and fast-paced world of business needs progressive and creative thinkers. In Algoma University's BBA program, students learn real-world business strategies using the case study beginning immediately in first year. BBA students may choose to minor in Accounting, Economics, Human Resources Management or Marketing."
+        }
+    ]
+}
