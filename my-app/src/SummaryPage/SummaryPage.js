@@ -17,59 +17,94 @@ class SummaryPage extends Component {
     myDB =  "capstonetest";
     myCollection = "someJsonData";
     //Sending test data
-    capstoneJson = {
-        name: "ABCD University",
-        program: "Software developer"
-    }
+    // capstoneJson = {
+    //     name: "ABCD University",
+    //     program: "Software developer"
+    // }
     constructor(props) {
         super(props);
 
         this.state = {
-            
-            rowData: [],
+            rowSelection: "multiple",   
+            rowData: [UniversityData],
             groupDefaultExpanded: 1,
         };
+    // }
+    // sendData(text){
+    //     axios.request({
+    //       method: 'post',
+    //       url: "mongodb://ssharm02:erub26er@ds117623.mlab.com:17623/capstone",
+    //      //url: "https://api.mlab.com/api/1/databases/capstonetest/collections/capstoneJson/?apiKey=6POnsQQ2_wNmktZw1j7WPJdizxKPJCul",
+    //       data: {
+    //         UniversityData
+    //       }
+    //     }).then((response) => {
+    //       let tasks = this.state.tasks;
+    //       tasks.push({ _id: response.data._id,text: text,completed: false});
+    //     }).catch((error) => {
+    //       console.log(error);
+    //     });
+    //   }
+    //   onRowSelected(event) {
+    //       console.log('test');
+    //       console.log('event is ' + event);
+    //       console.log('even node is ' + event.node);
+    //     console.log("row " + event.node.data + " selected = " + event.node.selected);
+
+       
+    //   }
+//       gridOptions = {
+// // EVENTS - add event callback handlers
+// onRowClicked: function(event) { console.log('a row was clicked'); },
+
+// }
     }
-    sendData(text){
-        axios.request({
-          method: 'post',
-          url: "mongodb://ssharm02:erub26er@ds117623.mlab.com:17623/capstone",
-         //url: "https://api.mlab.com/api/1/databases/capstonetest/collections/capstoneJson/?apiKey=6POnsQQ2_wNmktZw1j7WPJdizxKPJCul",
-          data: {
-            UniversityData
-          }
-        }).then((response) => {
-          let tasks = this.state.tasks;
-          tasks.push({ _id: response.data._id,text: text,completed: false});
-        }).catch((error) => {
-          console.log(error);
-        });
+onSelectionChanged() {
+    window.alert('hi');
+    console.log('is this method working');
+    var selectedRows = this.gridApi.getSelectedRows();
+    console.log(selectedRows);
+    var selectedRowsString = "";
+    selectedRows.forEach(function(selectedRow, index) {
+      if (index > 5) {
+        return;
       }
+      if (index !== 0) {
+        selectedRowsString += ", ";
+      }
+      selectedRowsString += selectedRow;
+    });
+    if (selectedRows.length >= 5) {
+      selectedRowsString += " - and " + (selectedRows.length - 5) + " others";
+    }
+    console.log(selectedRowsString);
+  }
       componentDidMount(){
           console.log('IS THIS RUNNING');
         //axios.get('https://api.mlab.com/api/1/databases/meanstackapp/collections/users/?apiKey=6POnsQQ2_wNmktZw1j7WPJdizxKPJCul').then(function(res) {console.log(res.data)});
-        axios.get('https://api.mlab.com/api/1/databases/capstone/collections/admissions/?apiKey=S-saaKBKxxTCWaasa-k7gxYZIipkFSfx').then(function(res){console.log(res.data[0]._id)})
+        axios.get('https://api.mlab.com/api/1/databases/capstone/collections/admissions/?apiKey=S-saaKBKxxTCWaasa-k7gxYZIipkFSfx').then(function(res){console.log(res.data)})
         console.log('success');
       }
     onGridReady(params) {
         this.gridApi = params.api;
+        console.log(this.gridApi);
         this.gridColumnApi = params.columnApi;
         this.setState({ rowData: UniversityData });
     };
-    onBtForEachNode() {
-        console.log("### api.forEachNode() ###");
-        // this.gridApi.forEachNode(this.printNode);
-        // this.gridApi.onSelectionChanged = function () {
-        //     console.log(this.gridOptions.api.getSelectedRows().length);
-        // }
-        let x = this.gridOptions.api.getSelectedRows().length;
-        console.log('Value of x is ', x);
-        // this.gridApi.getDisplayedRowAtIndex(function(node) {
-        //     let x = node.isSelected();
-        //     console.log(x);
-        // })
+    // onBtForEachNode() {
+    //     console.log("### api.forEachNode() ###");
+    //     this.gridApi.forEachNode(this.printNode);
+    //     // this.gridApi.onSelectionChanged = function () {
+    //     //     console.log(this.gridOptions.api.getSelectedRows().length);
+    //     // }
+    //     let x = this.gridOptions.api.getSelectedNodes().length;
+    //     console.log('Value of x is ', x);
+    //     // this.gridApi.getDisplayedRowAtIndex(function(node) {
+    //     //     let x = node.isSelected();
+    //     //     console.log(x);
+    //     // })
 
-      }
+    //   }
     //Column Definitions, Row data is returned fromn the Json in Data folder
     createColumns() {
        return [
@@ -80,7 +115,11 @@ class SummaryPage extends Component {
     },
             {headerName: "Favourite", field: "Program Name", cellRendererFramework: Checkbox, checkboxSelection: function(params) {
                // console.log('this is test');
-              },},  ///cellRendererFramework: Checkbox, checkBoxSelection: true},
+              },
+              isRowSelectable: function(rowNode) {
+                return rowNode.data;
+              },
+            },  ///cellRendererFramework: Checkbox, checkBoxSelection: true},
             {headerName: "Program Name", field: "Program Name", filter: "agTextColumnFilter"},
             {headerName: "Ontario Secondary School Prerequisites", field: "Ontario Secondary School Prerequisites", filter: "agTextColumnFilter"},
             {headerName: "Co-op Option", field: "Co-op Option", filter: "agTextColumnFilter"},
@@ -127,7 +166,7 @@ class SummaryPage extends Component {
             "York University": "YorkU",
             "York University - Glendon": "YorkU"
         };
-    
+        //Change size of university image using width and height here
         if (params.value) {
         const sch = "<img border='0' width='40' height='40' " + "style='margin-bottom: 2px' src='images/"+ UNI_CODES[params.value] + ".png'>";
             return sch + params.value;
@@ -154,16 +193,17 @@ class SummaryPage extends Component {
                     >
                     <button onClick={this.sendData}>Send Json to Mlab</button>
                     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet"></link>
-                    <button onClick={this.onBtForEachNode.bind(this)}>This is a test</button>
+                    
                     <AgGridReact
                     gridOptions={this.gridOptions}
                     onGridReady={this.onGridReady}
-                    rowSelection={this.state.rowSelection}
+                    // onRowSelected={this.onRowSelected.bind(this)}
                     animateRows={true}
                     onGridReady={this.onGridReady.bind(this)}
                     enableRangeSelection={true}
                     enableColResize={true} 
                     suppressSizeToFit={true}
+                    onSelectionChanged={this.onSelectionChanged.bind(this)}
                     enableSorting={true}
                     enableFilter={true}
                     floatingFilter={true}
@@ -176,3 +216,5 @@ class SummaryPage extends Component {
 }
 
 export default SummaryPage;
+
+//<button onClick={this.onBtForEachNode.bind(this)}>This is a test</button>
