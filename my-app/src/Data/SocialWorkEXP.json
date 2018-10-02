@@ -1,0 +1,170 @@
+[
+  {
+    "University": "Algoma",
+    "TuitioFees": "n/a",
+    "AncillaryFees": "n/a",
+    "TotalFees": "n/a",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "Brock University",
+    "TuitioFees": "n/a",
+    "AncillaryFees": "n/a",
+    "TotalFees": "n/a",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "Carleton University",
+    "TuitioFees": "$6,922",
+    "AncillaryFees": "$1,088",
+    "TotalFees": "$8,010",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "University of Guelph",
+    "TuitioFees": "n/a",
+    "AncillaryFees": "n/a",
+    "TotalFees": "n/a",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "Lakehead University",
+    "TuitioFees": "$6,456",
+    "AncillaryFees": "$990",
+    "TotalFees": "$7,446",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "Laurentian University",
+    "TuitioFees": "$6,473",
+    "AncillaryFees": "$1,011",
+    "TotalFees": "$7,484",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "McMaster University",
+    "TuitioFees": "$6,519",
+    "AncillaryFees": "$1,252",
+    "TotalFees": "$7,771",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "Nipissing University",
+    "TuitioFees": "n/a",
+    "AncillaryFees": "n/a",
+    "TotalFees": "n/a",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "OCAD University",
+    "TuitioFees": "n/a",
+    "AncillaryFees": "n/a",
+    "TotalFees": "n/a",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "University of Ottawa",
+    "TuitioFees": "n/a",
+    "AncillaryFees": "n/a",
+    "TotalFees": "n/a",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "Ottawa Saint Paul University",
+    "TuitioFees": "n/a",
+    "AncillaryFees": "n/a",
+    "TotalFees": "n/a",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "UOIT",
+    "TuitioFees": "n/a",
+    "AncillaryFees": "n/a",
+    "TotalFees": "n/a",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "Queen's University",
+    "TuitioFees": "n/a",
+    "AncillaryFees": "n/a",
+    "TotalFees": "n/a",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "Ryerson University",
+    "TuitioFees": "$6,713",
+    "AncillaryFees": "$1,108",
+    "TotalFees": "$7,821",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "Toronto All Campuses",
+    "TuitioFees": "n/a",
+    "AncillaryFees": "n/a",
+    "TotalFees": "n/a",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "Trent University",
+    "TuitioFees": "$6,600",
+    "AncillaryFees": "$1,625",
+    "TotalFees": "$8,225",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "University of Waterloo",
+    "TuitioFees": "n/a",
+    "AncillaryFees": "n/a",
+    "TotalFees": "n/a",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "Western Main Campus",
+    "TuitioFees": "$6,559",
+    "AncillaryFees": "$1,396",
+    "TotalFees": "$7,955",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "Western Brescia University College",
+    "TuitioFees": "n/a",
+    "AncillaryFees": "n/a",
+    "TotalFees": "n/a",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "Western Huron University College",
+    "TuitioFees": "n/a",
+    "AncillaryFees": "n/a",
+    "TotalFees": "n/a",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "Western King's University College",
+    "TuitioFees": "$6,559",
+    "AncillaryFees": "$1,537",
+    "TotalFees": "$8,096",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "Wilfrid Laurier University",
+    "TuitioFees": "$6,536",
+    "AncillaryFees": "$1,070",
+    "TotalFees": "$7,606",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "University of Windsor",
+    "TuitioFees": "$6,442",
+    "AncillaryFees": "$1,035",
+    "TotalFees": "$7,478",
+    "Year": "2017-2018"
+  },
+  {
+    "University": "York University",
+    "TuitioFees": "$6,600",
+    "AncillaryFees": "$1,178",
+    "TotalFees": "$7,778",
+    "Year": "2017-2018"
+  }
+]
