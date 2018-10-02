@@ -29,35 +29,35 @@ class SummaryPage extends Component {
             rowData: [UniversityData],
             groupDefaultExpanded: 1,
         };
-    // }
-    // sendData(text){
-    //     axios.request({
-    //       method: 'post',
-    //       url: "mongodb://ssharm02:erub26er@ds117623.mlab.com:17623/capstone",
-    //      //url: "https://api.mlab.com/api/1/databases/capstonetest/collections/capstoneJson/?apiKey=6POnsQQ2_wNmktZw1j7WPJdizxKPJCul",
-    //       data: {
-    //         UniversityData
-    //       }
-    //     }).then((response) => {
-    //       let tasks = this.state.tasks;
-    //       tasks.push({ _id: response.data._id,text: text,completed: false});
-    //     }).catch((error) => {
-    //       console.log(error);
-    //     });
-    //   }
-    //   onRowSelected(event) {
-    //       console.log('test');
-    //       console.log('event is ' + event);
-    //       console.log('even node is ' + event.node);
-    //     console.log("row " + event.node.data + " selected = " + event.node.selected);
+    }
+    sendData(text){
+        axios.request({
+          method: 'post',
+          url: "mongodb://ssharm02:erub26er@ds117623.mlab.com:17623/capstone",
+         //url: "https://api.mlab.com/api/1/databases/capstonetest/collections/capstoneJson/?apiKey=6POnsQQ2_wNmktZw1j7WPJdizxKPJCul",
+          data: {
+            UniversityData
+          }
+        }).then((response) => {
+          let tasks = this.state.tasks;
+          tasks.push({ _id: response.data._id,text: text,completed: false});
+        }).catch((error) => {
+          console.log(error);
+        });
+      }
+      onRowSelected(event) {
+          console.log('test');
+          console.log('event is ' + event);
+          console.log('even node is ' + event.node);
+        console.log("row " + event.node.data + " selected = " + event.node.selected);
 
        
-    //   }
-//       gridOptions = {
-// // EVENTS - add event callback handlers
-// onRowClicked: function(event) { console.log('a row was clicked'); },
+      }
+      gridOptions = {
+// EVENTS - add event callback handlers
+onRowClicked: function(event) { console.log('a row was clicked'); },
 
-// }
+}
     }
 onSelectionChanged() {
     window.alert('hi');
@@ -91,20 +91,20 @@ onSelectionChanged() {
         this.gridColumnApi = params.columnApi;
         this.setState({ rowData: UniversityData });
     };
-    // onBtForEachNode() {
-    //     console.log("### api.forEachNode() ###");
-    //     this.gridApi.forEachNode(this.printNode);
-    //     // this.gridApi.onSelectionChanged = function () {
-    //     //     console.log(this.gridOptions.api.getSelectedRows().length);
-    //     // }
-    //     let x = this.gridOptions.api.getSelectedNodes().length;
-    //     console.log('Value of x is ', x);
-    //     // this.gridApi.getDisplayedRowAtIndex(function(node) {
-    //     //     let x = node.isSelected();
-    //     //     console.log(x);
-    //     // })
+    onBtForEachNode() {
+        console.log("### api.forEachNode() ###");
+        this.gridApi.forEachNode(this.printNode);
+        // this.gridApi.onSelectionChanged = function () {
+        //     console.log(this.gridOptions.api.getSelectedRows().length);
+        // }
+        let x = this.gridOptions.api.getSelectedNodes().length;
+        console.log('Value of x is ', x);
+        // this.gridApi.getDisplayedRowAtIndex(function(node) {
+        //     let x = node.isSelected();
+        //     console.log(x);
+        // })
 
-    //   }
+      }
     //Column Definitions, Row data is returned fromn the Json in Data folder
     createColumns() {
        return [
